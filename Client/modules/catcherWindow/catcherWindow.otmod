@@ -1,0 +1,17 @@
+Module
+  name: CatcherWindow
+  description: [MOD] Pokemon Catcher Window System ~~ www.OTCodes.com
+  author: Tony Araujo (OrochiElf)
+  website: www.OTCodes.com
+
+  autoload: true
+  autoload-priority: 1000
+
+  scripts:
+    - catcherWindow.lua
+
+  dependencies:
+    - game_interface
+
+  @onLoad: init()
+  @onUnload: terminate()

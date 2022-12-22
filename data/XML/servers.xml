@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	<server id="0" name="Example" versionMin="850" versionMax="850" address="Pokemonpyrus-ot.servegame.com" port="7171"/>
+ <?xml version="1.0"?>
+<otadmin enabled="1">
+<security onlylocalhost="1" maxconnections="40" loginrequired="2" loginpassword="xandemaurothiagofabioatirador" />
+<encryption required="0" >
+<!-- key type="RSA1024XTEA" file="rsakey.private" -->
+	</servers>
+
+

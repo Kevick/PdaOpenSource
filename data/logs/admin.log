@@ -1,0 +1,27 @@
+[25/06/2014 12:50:49] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Jamil sent unknown byte: 0x24ff164
+
+[25/06/2014 12:51:42] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Jamil sent unknown byte: 0x24ff164
+
+[25/06/2014 12:51:42] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Jamil sent unknown byte: 0x24ff164
+
+[25/06/2014 12:51:42] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Jamil sent unknown byte: 0x24ff164
+
+[25/06/2014 12:51:43] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Jamil sent unknown byte: 0x24ff164
+
+[25/06/2014 12:51:43] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Jamil sent unknown byte: 0x24ff164
+
+[25/06/2014 12:51:43] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Jamil sent unknown byte: 0x24ff164
+
+[25/06/2014 12:51:43] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Jamil sent unknown byte: 0x24ff164
+
+[25/06/2014 12:51:43] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Jamil sent unknown byte: 0x24ff164
+
+[25/06/2014 17:31:08] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Black Movier sent unknown byte: 0x24bf164
+
+[25/06/2014 17:31:17] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Black Movier sent unknown byte: 0x24bf164
+
+[07/09/2014 14:53:36] (Error - void ServicePort::open(uint16_t)) NETWORK: Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso
+[07/09/2014 14:54:12] (Error - void ServicePort::open(uint16_t)) NETWORK: Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso
+[07/09/2014 14:55:02] (Error - void ServicePort::open(uint16_t)) NETWORK: Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso
+[05/06/2015 10:26:37] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Good sent unknown byte: 0x3daf164
+

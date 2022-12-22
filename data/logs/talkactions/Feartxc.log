@@ -1,0 +1,3911 @@
+[31/08/2014 22:39:52] /i caterpie
+[31/08/2014 22:40:22] /addskill feartxc ,level ,5
+[31/08/2014 22:40:23] /addskill feartxc ,level ,6
+[31/08/2014 22:40:25] /addskill feartxc ,level ,7
+[31/08/2014 22:40:29] /addskill feartxc ,level ,100
+[31/08/2014 22:40:36] /m shiny golem
+[31/08/2014 22:40:51] /addskill feartxc ,level ,100000000
+[31/08/2014 22:44:58] /newtype 1483
+[31/08/2014 22:45:02] /goto minero
+[31/08/2014 22:45:41] /newtype 12
+[31/08/2014 22:45:43] /newtype 12
+[31/08/2014 22:45:44] /newtype 13
+[31/08/2014 22:45:45] /newtype 14
+[31/08/2014 22:45:46] /newtype 15
+[31/08/2014 22:45:47] /newtype 1
+[31/08/2014 22:45:48] /newtype 6
+[31/08/2014 22:45:49] /newtype 7
+[31/08/2014 22:45:51] /newtype 8
+[31/08/2014 22:45:53] /newtype 1
+[31/08/2014 22:46:11] /newtype 3
+[31/08/2014 22:46:12] /newtype 4
+[31/08/2014 22:46:13] /newtype 10
+[31/08/2014 22:46:14] /newtype 12
+[31/08/2014 22:46:15] /newtype 13
+[31/08/2014 22:46:16] /newtype 14
+[31/08/2014 22:46:17] /newtype 15
+[31/08/2014 22:46:18] /newtype 16
+[31/08/2014 22:46:20] /newtype 17
+[31/08/2014 22:46:21] /newtype 18
+[31/08/2014 22:46:22] /newtype 19
+[31/08/2014 22:46:24] /newtype 20
+[31/08/2014 22:47:09] /newtype 1658
+[31/08/2014 22:47:17] /t
+[31/08/2014 22:47:29] /t
+[31/08/2014 22:48:49] /goto minero
+[31/08/2014 22:53:33] /goto minero
+[31/08/2014 23:11:14] /goto minero
+[31/08/2014 23:12:00] /goto 
+[31/08/2014 23:12:03] /goto  red fury
+[31/08/2014 23:12:15] /rename ReD FUrY
+[31/08/2014 23:12:22] /rename ReD FUrY ,adm
+[31/08/2014 23:12:26] /rename ReD FUrY, adm
+[31/08/2014 23:13:15] /goto minero
+[31/08/2014 23:13:28] /ghost
+[31/08/2014 23:13:30] /ghost
+[31/08/2014 23:22:21] /addskill minero ,leve; ,12
+[31/08/2014 23:30:24] /goto minero
+[31/08/2014 23:30:37] /goto minero
+[31/08/2014 23:32:39] /goto minero
+[31/08/2014 23:34:35] /attr health ,-1
+[31/08/2014 23:34:38] /attr health ,-10
+[31/08/2014 23:34:43] /attr health ,-100
+[31/08/2014 23:34:44] /attr health ,-100
+[31/08/2014 23:34:45] /attr health ,-100
+[31/08/2014 23:34:51] /attr health ,-1000000
+[31/08/2014 23:35:08] /attr health ,-4000
+[31/08/2014 23:35:10] /goto
+[31/08/2014 23:35:19] /goto cone
+[31/08/2014 23:35:23] /attr health ,-4000
+[31/08/2014 23:35:56] /attr health ,-1000
+[31/08/2014 23:35:57] /attr health ,-1000
+[31/08/2014 23:35:58] /attr health ,-1000
+[31/08/2014 23:35:59] /attr health ,-1000
+[31/08/2014 23:35:59] /attr health ,-1000
+[31/08/2014 23:36:00] /attr health ,-1000
+[31/08/2014 23:36:00] /attr health ,-1000
+[31/08/2014 23:36:01] /attr health ,-1000
+[31/08/2014 23:36:01] /attr health ,-1000
+[31/08/2014 23:36:02] /attr health ,-1000
+[31/08/2014 23:36:02] /attr health ,-1000
+[31/08/2014 23:36:14] /attr health ,-3183
+[31/08/2014 23:36:17] /attr health ,-3183
+[31/08/2014 23:36:21] /attr health ,-3183
+[31/08/2014 23:36:22] /attr health ,-3183
+[31/08/2014 23:36:23] /attr health ,-3183
+[31/08/2014 23:36:27] /attr health ,-3183
+[31/08/2014 23:36:29] /attr health , -3183
+[31/08/2014 23:36:35] /attr health, -3183
+[31/08/2014 23:36:38] /attr health, -3183
+[31/08/2014 23:36:42] /attr health, -3183
+[31/08/2014 23:36:47] /attr health, -3183
+[31/08/2014 23:36:47] /attr health, -3183
+[31/08/2014 23:38:18] /goto cone
+[31/08/2014 23:38:42] /attr health ,-1999
+[31/08/2014 23:40:18] /goto cone
+[31/08/2014 23:40:23] /goto chaos test
+[31/08/2014 23:45:51] /m furious sandslash
+[31/08/2014 23:45:51] /m furious sandslash
+[31/08/2014 23:45:52] /m furious sandslash
+[31/08/2014 23:45:53] /m furious sandslash
+[31/08/2014 23:45:54] /m furious sandslash
+[31/08/2014 23:49:05] /m furious sandslash
+[31/08/2014 23:49:05] /m furious sandslash
+[31/08/2014 23:49:06] /m furious sandslash
+[31/08/2014 23:49:06] /m furious sandslash
+[31/08/2014 23:49:06] /m furious sandslash
+[31/08/2014 23:49:07] /m furious sandslash
+[31/08/2014 23:51:26] /c chaos test
+[31/08/2014 23:54:22] /goto minero
+[31/08/2014 23:55:53] /m furious sandslash
+[31/08/2014 23:55:54] /m furious sandslash
+[31/08/2014 23:55:54] /m furious sandslash
+[31/08/2014 23:55:55] /m furious sandslash
+[31/08/2014 23:55:55] /m furious sandslash
+[31/08/2014 23:55:55] /m furious sandslash
+[31/08/2014 23:56:52] /goto minero
+[31/08/2014 23:58:23] /goto cone
+[31/08/2014 23:58:28] /goto chaos test
+[31/08/2014 23:59:55] /m furious sandslash
+[31/08/2014 23:59:55] /m furious sandslash
+[31/08/2014 23:59:56] /m furious sandslash
+[31/08/2014 23:59:56] /m furious sandslash
+[31/08/2014 23:59:57] /m furious sandslash
+[31/08/2014 23:59:58] /m furious sandslash
+[01/09/2014 00:09:19] /newtype 1658
+[01/09/2014 00:09:30] /newtype 1658
+[01/09/2014 00:09:34] /newtype 1658
+[01/09/2014 00:09:47] /newtype 1658
+[01/09/2014 00:11:04] /i 1285
+[01/09/2014 00:11:06] /i 1285
+[01/09/2014 00:11:06] /i 1285
+[01/09/2014 00:11:08] /i 1285
+[01/09/2014 00:11:09] /i 1285
+[01/09/2014 00:11:10] /i 1285
+[01/09/2014 00:11:24] /i 1285
+[01/09/2014 00:11:25] /i 1285
+[01/09/2014 00:11:27] /i 1285
+[01/09/2014 00:11:45] /i 1285
+[01/09/2014 00:12:58] /r
+[01/09/2014 00:12:59] /r
+[01/09/2014 00:12:59] /r
+[01/09/2014 00:13:02] /r
+[01/09/2014 00:13:03] /r
+[01/09/2014 00:13:04] /r
+[01/09/2014 00:13:05] /r
+[01/09/2014 00:13:06] /r
+[01/09/2014 00:13:07] /r
+[01/09/2014 00:13:09] /r
+[01/09/2014 00:13:12] /r
+[01/09/2014 00:13:15] /r
+[01/09/2014 00:13:16] /r
+[01/09/2014 00:13:17] /r
+[01/09/2014 00:13:21] /r
+[01/09/2014 00:13:22] /r
+[01/09/2014 00:16:54] /goto minero
+[01/09/2014 00:21:07] /goto minero
+[01/09/2014 00:21:17] /m hard golem
+[01/09/2014 00:21:17] /m hard golem
+[01/09/2014 00:21:17] /m hard golem
+[01/09/2014 00:21:18] /m hard golem
+[01/09/2014 00:27:07] /goto minero
+[01/09/2014 00:28:10] /m shiny giant magikarp
+[01/09/2014 00:28:11] /m shiny giant magikarp
+[01/09/2014 00:28:12] /m shiny giant magikarp
+[01/09/2014 00:28:12] /m shiny giant magikarp
+[01/09/2014 00:28:14] /m shiny giant magikarp
+[01/09/2014 00:28:33] /i dark ball
+[01/09/2014 00:28:42] /goto minero
+[01/09/2014 00:29:24] /r
+[01/09/2014 00:29:28] /r
+[01/09/2014 00:29:28] /r
+[01/09/2014 00:35:48] /goto 
+[01/09/2014 00:35:55] /goto minero
+[01/09/2014 00:43:51] /i y-regeneration t7
+[01/09/2014 00:43:54] /i y-regeneration t7
+[01/09/2014 00:44:05] /i x-return t7
+[01/09/2014 00:45:24] /m hard golem
+[01/09/2014 00:45:25] /m hard golem
+[01/09/2014 00:45:34] /m elder tyranitar
+[01/09/2014 00:46:25] /m elder tyranitar
+[01/09/2014 00:46:26] /m elder tyranitar
+[01/09/2014 00:46:28] /m elder tyranitar
+[01/09/2014 00:46:37] /m elder tyranitar
+[01/09/2014 00:46:41] /m elder tyranitar
+[01/09/2014 00:46:48] /m elder tyranitar
+[01/09/2014 00:46:50] /m elder tyranitar
+[01/09/2014 00:48:46] /goto master machamp
+[01/09/2014 00:48:51] /goto monter machamp
+[01/09/2014 00:48:53] /goto monter machamp
+[01/09/2014 00:49:04] /goto monster chamap
+[01/09/2014 00:49:10] /goto monster machamp
+[01/09/2014 00:50:30] /goto ancient meganium
+[01/09/2014 00:51:18] /goto minero
+[01/09/2014 00:51:20] /goto minero
+[01/09/2014 00:51:21] /goto minero
+[01/09/2014 00:51:23] /goto minero
+[01/09/2014 00:51:24] /goto minero
+[01/09/2014 00:53:39] /goto minero
+[01/09/2014 00:54:22] /goto miner
+[01/09/2014 00:54:24] /goto minero
+[01/09/2014 00:55:15] /goto minero
+[01/09/2014 01:00:08] /goto minero
+[01/09/2014 01:01:31] /newtype 123
+[01/09/2014 01:01:32] /newtype 124
+[01/09/2014 01:01:34] /newtype 125
+[01/09/2014 01:01:38] /newtype 125
+[01/09/2014 01:01:47] /newtype 127
+[01/09/2014 01:01:51] /newtype 126
+[01/09/2014 01:01:52] /newtype 128
+[01/09/2014 01:01:57] /newtype 128
+[01/09/2014 01:02:00] /newtype 128
+[01/09/2014 01:02:06] /newtype 129
+[01/09/2014 01:02:22] /newtype 130
+[01/09/2014 01:02:24] /newtype 131
+[01/09/2014 01:02:25] /newtype 132
+[01/09/2014 01:02:28] /newtype 134
+[01/09/2014 01:02:29] /newtype 133
+[01/09/2014 01:02:30] /newtype 136
+[01/09/2014 01:02:31] /newtype 135
+[01/09/2014 01:02:33] /newtype 137
+[01/09/2014 01:02:34] /newtype 138
+[01/09/2014 01:02:36] /newtype 140
+[01/09/2014 01:02:37] /newtype 141
+[01/09/2014 01:02:37] /newtype 142
+[01/09/2014 01:02:39] /newtype 143
+[01/09/2014 01:02:39] /newtype 144
+[01/09/2014 01:02:40] /newtype 145
+[01/09/2014 01:02:41] /newtype 146
+[01/09/2014 01:02:42] /newtype 147
+[01/09/2014 01:02:43] /newtype 148
+[01/09/2014 01:02:47] /newtype 149
+[01/09/2014 01:02:49] /newtype 150
+[01/09/2014 01:02:50] /newtype 151
+[01/09/2014 01:02:51] /newtype 152
+[01/09/2014 01:02:52] /newtype 153
+[01/09/2014 01:02:53] /newtype 154
+[01/09/2014 01:02:54] /newtype 155
+[01/09/2014 01:02:55] /newtype 156
+[01/09/2014 01:02:57] /newtype 158
+[01/09/2014 01:02:59] /newtype 159
+[01/09/2014 01:03:03] /newtype 160
+[01/09/2014 01:03:05] /newtype 161
+[01/09/2014 01:03:07] /newtype 162
+[01/09/2014 01:03:10] /newtype 163
+[01/09/2014 01:03:12] /newtype 164
+[01/09/2014 01:03:13] /newtype 165
+[01/09/2014 01:03:16] /newtype 160
+[01/09/2014 01:03:17] /newtype 161
+[01/09/2014 01:03:19] /newtype 170
+[01/09/2014 01:03:21] /newtype 171
+[01/09/2014 01:03:22] /newtype 172
+[01/09/2014 01:03:23] /newtype 173
+[01/09/2014 01:03:25] /newtype 174
+[01/09/2014 01:03:26] /newtype 175
+[01/09/2014 01:03:27] /newtype 176
+[01/09/2014 01:03:28] /newtype 180
+[01/09/2014 01:03:29] /newtype 181
+[01/09/2014 01:03:32] /newtype 200
+[01/09/2014 01:03:33] /newtype 201
+[01/09/2014 01:03:35] /newtype 190
+[01/09/2014 01:03:37] /newtype 191
+[01/09/2014 01:03:38] /newtype 199
+[01/09/2014 01:03:40] /newtype 198
+[01/09/2014 01:03:41] /newtype 197
+[01/09/2014 01:03:42] /newtype 196
+[01/09/2014 01:03:43] /newtype 195
+[01/09/2014 01:03:46] /newtype 194
+[01/09/2014 01:03:51] /newtype 193
+[01/09/2014 01:03:52] /newtype 192
+[01/09/2014 01:03:54] /newtype 191
+[01/09/2014 01:03:57] /newtype 201
+[01/09/2014 01:03:58] /newtype 202
+[01/09/2014 01:03:59] /newtype 203
+[01/09/2014 01:04:00] /newtype 204
+[01/09/2014 01:04:00] /newtype 205
+[01/09/2014 01:04:01] /newtype 206
+[01/09/2014 01:04:02] /newtype 207
+[01/09/2014 01:04:03] /newtype 208
+[01/09/2014 01:04:04] /newtype 209
+[01/09/2014 01:04:06] /newtype 210
+[01/09/2014 01:04:07] /newtype 211
+[01/09/2014 01:04:08] /newtype 212
+[01/09/2014 01:04:09] /newtype 213
+[01/09/2014 01:04:11] /newtype 212
+[01/09/2014 01:04:46] /newtype 212
+[01/09/2014 01:04:47] /newtype 213
+[01/09/2014 01:04:48] /newtype 214
+[01/09/2014 01:04:49] /newtype 215
+[01/09/2014 01:04:52] /newtype 216
+[01/09/2014 01:04:52] /newtype 217
+[01/09/2014 01:04:53] /newtype 218
+[01/09/2014 01:04:55] /newtype 219
+[01/09/2014 01:04:57] /newtype 220
+[01/09/2014 01:04:58] /newtype 221
+[01/09/2014 01:04:59] /newtype 222
+[01/09/2014 01:05:00] /newtype 223
+[01/09/2014 01:05:02] /newtype 223
+[01/09/2014 01:05:03] /newtype 224
+[01/09/2014 01:05:04] /newtype 225
+[01/09/2014 01:05:05] /newtype 226
+[01/09/2014 01:05:06] /newtype 227
+[01/09/2014 01:05:07] /newtype 228
+[01/09/2014 01:05:08] /newtype 225
+[01/09/2014 01:05:10] /newtype 224
+[01/09/2014 01:05:11] /newtype 225
+[01/09/2014 01:05:14] /newtype 229
+[01/09/2014 01:05:18] /newtype 230
+[01/09/2014 01:05:19] /newtype 231
+[01/09/2014 01:05:20] /newtype 232
+[01/09/2014 01:05:21] /newtype 233
+[01/09/2014 01:05:22] /newtype 234
+[01/09/2014 01:05:23] /newtype 235
+[01/09/2014 01:05:24] /newtype 236
+[01/09/2014 01:05:26] /newtype 237
+[01/09/2014 01:05:27] /newtype 238
+[01/09/2014 01:05:28] /newtype 239
+[01/09/2014 01:05:31] /newtype 240
+[01/09/2014 01:05:32] /newtype 241
+[01/09/2014 01:05:33] /newtype 242
+[01/09/2014 01:05:34] /newtype 243
+[01/09/2014 01:05:35] /newtype 244
+[01/09/2014 01:05:37] /newtype 244
+[01/09/2014 01:05:38] /newtype 246
+[01/09/2014 01:05:39] /newtype 247
+[01/09/2014 01:05:40] /newtype 248
+[01/09/2014 01:05:41] /newtype 249
+[01/09/2014 01:05:44] /newtype 250
+[01/09/2014 01:05:45] /newtype 251
+[01/09/2014 01:05:46] /newtype 252
+[01/09/2014 01:05:47] /newtype 251
+[01/09/2014 01:05:53] /newtype 252
+[01/09/2014 01:05:54] /newtype 253
+[01/09/2014 01:05:56] /newtype 254
+[01/09/2014 01:05:57] /newtype 255
+[01/09/2014 01:05:58] /newtype 256
+[01/09/2014 01:05:59] /newtype 257
+[01/09/2014 01:06:00] /newtype 258
+[01/09/2014 01:06:01] /newtype 259
+[01/09/2014 01:06:03] /newtype 260
+[01/09/2014 01:06:04] /newtype 261
+[01/09/2014 01:06:05] /newtype 262
+[01/09/2014 01:06:06] /newtype 263
+[01/09/2014 01:06:07] /newtype 264
+[01/09/2014 01:06:08] /newtype 265
+[01/09/2014 01:06:08] /newtype 266
+[01/09/2014 01:06:09] /newtype 267
+[01/09/2014 01:06:10] /newtype 268
+[01/09/2014 01:06:12] /newtype 2689
+[01/09/2014 01:06:14] /newtype 269
+[01/09/2014 01:06:17] /newtype 270
+[01/09/2014 01:06:18] /newtype 271
+[01/09/2014 01:06:19] /newtype 272
+[01/09/2014 01:06:20] /newtype 273
+[01/09/2014 01:06:22] /newtype 274
+[01/09/2014 01:06:23] /newtype 275
+[01/09/2014 01:06:24] /newtype 276
+[01/09/2014 01:06:25] /newtype 277
+[01/09/2014 01:06:27] /newtype 275
+[01/09/2014 01:06:29] /newtype 276
+[01/09/2014 01:07:34] /t
+[01/09/2014 01:12:54] /m capoeira hitmontop
+[01/09/2014 01:13:06] /m capoeira hitmontop
+[01/09/2014 01:13:07] /m capoeira hitmontop
+[01/09/2014 01:13:12] /m capoeira hitmontop
+[01/09/2014 01:13:25] /m capoeira hitmontop
+[01/09/2014 01:13:26] /m capoeira hitmontop
+[01/09/2014 01:13:28] /m capoeira hitmontop
+[01/09/2014 01:13:28] /m capoeira hitmontop
+[01/09/2014 01:13:29] /m capoeira hitmontop
+[01/09/2014 01:13:29] /m capoeira hitmontop
+[01/09/2014 01:13:29] /m capoeira hitmontop
+[01/09/2014 01:13:30] /m capoeira hitmontop
+[01/09/2014 01:13:30] /m capoeira hitmontop
+[01/09/2014 01:13:31] /m capoeira hitmontop
+[01/09/2014 01:13:31] /m capoeira hitmontop
+[01/09/2014 01:13:31] /m capoeira hitmontop
+[01/09/2014 01:13:32] /m capoeira hitmontop
+[01/09/2014 01:13:32] /m capoeira hitmontop
+[01/09/2014 01:13:33] /m capoeira hitmontop
+[01/09/2014 01:13:33] /m capoeira hitmontop
+[01/09/2014 01:13:33] /m capoeira hitmontop
+[01/09/2014 01:13:34] /m capoeira hitmontop
+[01/09/2014 01:13:34] /m capoeira hitmontop
+[01/09/2014 01:13:35] /m capoeira hitmontop
+[01/09/2014 01:13:35] /m capoeira hitmontop
+[01/09/2014 01:13:35] /m capoeira hitmontop
+[01/09/2014 01:13:36] /m capoeira hitmontop
+[01/09/2014 01:13:36] /m capoeira hitmontop
+[01/09/2014 01:13:37] /m capoeira hitmontop
+[01/09/2014 01:13:37] /m capoeira hitmontop
+[01/09/2014 01:13:56] /i x-return t7
+[01/09/2014 01:14:14] /i y-regeneration t7
+[01/09/2014 01:17:30] /m dragon machamp
+[01/09/2014 01:17:31] /m dragon machamp
+[01/09/2014 01:17:31] /m dragon machamp
+[01/09/2014 01:17:31] /m dragon machamp
+[01/09/2014 01:17:32] /m dragon machamp
+[01/09/2014 01:17:32] /m dragon machamp
+[01/09/2014 01:17:33] /m dragon machamp
+[01/09/2014 01:17:33] /m dragon machamp
+[01/09/2014 01:17:33] /m dragon machamp
+[01/09/2014 01:22:58] /goto minero
+[01/09/2014 12:17:16] /goto minero
+[01/09/2014 12:21:42] /goto minero
+[01/09/2014 12:23:17] /goto minero
+[01/09/2014 12:24:04] /goto minero
+[01/09/2014 12:24:09] /goto minero
+[01/09/2014 12:24:13] /goto minero
+[01/09/2014 12:24:17] /goto minero
+[01/09/2014 12:24:20] /goto minero
+[01/09/2014 12:24:21] /goto minero
+[01/09/2014 12:24:22] /goto minero
+[01/09/2014 12:24:22] /goto minero
+[01/09/2014 12:24:23] /goto minero
+[01/09/2014 12:24:24] /goto minero
+[01/09/2014 12:24:25] /goto minero
+[01/09/2014 12:24:25] /goto minero
+[01/09/2014 12:24:26] /goto minero
+[01/09/2014 12:24:27] /goto minero
+[01/09/2014 12:24:28] /goto minero
+[01/09/2014 12:24:28] /goto minero
+[01/09/2014 12:24:29] /goto minero
+[01/09/2014 12:24:30] /goto minero
+[01/09/2014 12:24:31] /goto minero
+[01/09/2014 12:24:33] /goto minero
+[01/09/2014 12:27:03] /goto minero
+[01/09/2014 12:27:18] /goto minero
+[01/09/2014 12:27:52] /goto minero
+[01/09/2014 12:27:58] /goto minero
+[01/09/2014 12:28:05] /goto minero
+[01/09/2014 12:28:06] /goto minero
+[01/09/2014 12:28:07] /goto minero
+[01/09/2014 12:28:08] /goto minero
+[01/09/2014 12:28:09] /goto minero
+[01/09/2014 12:28:10] /goto minero
+[01/09/2014 12:28:10] /goto minero
+[01/09/2014 12:28:11] /goto minero
+[01/09/2014 12:28:11] /goto minero
+[01/09/2014 12:28:12] /goto minero
+[01/09/2014 12:28:14] /goto minero
+[01/09/2014 12:28:17] /goto minero
+[01/09/2014 12:28:19] /goto minero
+[01/09/2014 12:28:22] /goto minero
+[01/09/2014 12:28:25] /goto minero
+[01/09/2014 12:28:27] /goto minero
+[01/09/2014 12:28:29] /goto minero
+[01/09/2014 12:30:29] /r
+[01/09/2014 12:30:39] /m caterpie
+[01/09/2014 12:30:40] /m caterpie
+[01/09/2014 12:30:40] /m caterpie
+[01/09/2014 12:30:48] /m caterpie
+[01/09/2014 12:30:51] /m caterpie
+[01/09/2014 12:30:52] /m caterpie
+[01/09/2014 12:30:53] /m caterpie
+[01/09/2014 12:30:53] /m caterpie
+[01/09/2014 12:30:55] /r
+[01/09/2014 12:30:55] /r
+[01/09/2014 12:30:57] /m caterpie
+[01/09/2014 12:30:58] /m caterpie
+[01/09/2014 12:30:58] /m caterpie
+[01/09/2014 12:30:59] /m caterpie
+[01/09/2014 12:31:08] /m caterpie
+[01/09/2014 12:31:11] /m caterpie
+[01/09/2014 12:31:12] /m caterpie
+[01/09/2014 12:31:12] /m caterpie
+[01/09/2014 12:31:16] /m caterpie
+[01/09/2014 12:31:18] /m caterpie
+[01/09/2014 12:31:21] /m caterpie
+[01/09/2014 12:31:34] /m caterpie
+[01/09/2014 12:31:36] /m caterpie
+[01/09/2014 12:31:50] /m caterpie
+[01/09/2014 12:35:31] /m caterpie
+[01/09/2014 12:35:31] /m caterpie
+[01/09/2014 12:35:32] /m caterpie
+[01/09/2014 12:35:33] /m caterpie
+[01/09/2014 12:35:33] /m caterpie
+[01/09/2014 12:35:33] /m caterpie
+[01/09/2014 12:35:34] /m caterpie
+[01/09/2014 12:35:35] /m caterpie
+[01/09/2014 12:35:36] /m caterpie
+[01/09/2014 12:35:38] /m caterpie
+[01/09/2014 12:35:39] /m caterpie
+[01/09/2014 12:35:39] /m caterpie
+[01/09/2014 12:35:40] /m caterpie
+[01/09/2014 12:35:41] /m caterpie
+[01/09/2014 12:35:42] /m caterpie
+[01/09/2014 12:35:42] /m caterpie
+[01/09/2014 12:35:44] /m caterpie
+[01/09/2014 12:35:45] /m caterpie
+[01/09/2014 12:35:46] /m caterpie
+[01/09/2014 12:35:46] /m caterpie
+[01/09/2014 12:35:46] /m caterpie
+[01/09/2014 12:42:35] /goto minero
+[01/09/2014 12:42:47] /newtype caterpie
+[01/09/2014 12:42:54] /newtype 1234 ,minero
+[01/09/2014 12:43:03] /newtype 1658 ,minero
+[01/09/2014 12:53:15] /m shiny salamence
+[01/09/2014 12:53:16] /m shiny salamence
+[01/09/2014 12:53:18] /m shiny salamence
+[01/09/2014 12:53:19] /m shiny salamence
+[01/09/2014 19:32:54] /goto minero
+[01/09/2014 19:34:48] /goto minero
+[01/09/2014 19:35:23] /goto minero
+[01/09/2014 19:35:57] /goto war golem
+[01/09/2014 19:36:05] /goto hard golem
+[01/09/2014 19:36:28] /goto minero
+[01/09/2014 19:39:05] /goto minero
+[01/09/2014 19:42:46] /m war gyarados
+[01/09/2014 19:42:46] /m war gyarados
+[01/09/2014 19:42:47] /m war gyarados
+[01/09/2014 19:42:47] /m war gyarados
+[01/09/2014 19:45:13] /goto war gyarados
+[01/09/2014 19:49:15] /i 12227
+[01/09/2014 19:49:27] /m hard golem
+[01/09/2014 19:50:25] /m hard golem
+[01/09/2014 19:51:34] /goto minero
+[01/09/2014 19:53:57] /m caterpie
+[01/09/2014 19:53:58] /m caterpie
+[01/09/2014 19:55:24] /m caterpie
+[01/09/2014 19:55:25] /m caterpie
+[01/09/2014 19:55:26] /m caterpie
+[01/09/2014 20:03:19] /goto minero
+[01/09/2014 20:03:35] /m shiny nidoking
+[01/09/2014 20:09:48] /goto minero
+[01/09/2014 20:10:15] /m roll dophan
+[01/09/2014 20:10:21] /m roll dophan
+[01/09/2014 20:10:25] /m roll dophon
+[01/09/2014 20:12:53] /goto cone
+[01/09/2014 20:12:57] /goto cone
+[01/09/2014 20:13:13] /m brave blastoise
+[01/09/2014 20:13:14] /m brave blastoise
+[01/09/2014 20:13:16] /m brave blastoise
+[01/09/2014 20:13:17] /m brave blastoise
+[01/09/2014 20:13:19] /m brave blastoise
+[01/09/2014 20:13:20] /m brave blastoise
+[01/09/2014 20:13:22] /m brave blastoise
+[01/09/2014 20:13:25] /m brave blastoise
+[01/09/2014 20:13:27] /m brave blastoise
+[01/09/2014 20:17:32] /m shiny blastoise
+[01/09/2014 20:17:34] /m shiny blastoise
+[01/09/2014 20:17:34] /m shiny blastoise
+[01/09/2014 20:17:35] /m shiny blastoise
+[01/09/2014 20:18:32] /m shiny blastoise
+[01/09/2014 20:18:33] /m shiny blastoise
+[01/09/2014 20:18:33] /m shiny blastoise
+[01/09/2014 20:18:34] /m shiny blastoise
+[01/09/2014 20:18:35] /m shiny blastoise
+[01/09/2014 20:18:35] /m shiny blastoise
+[01/09/2014 20:19:08] /goto cone
+[01/09/2014 20:47:49] /t
+[01/09/2014 20:47:58] /i 1227
+[01/09/2014 20:48:05] /r
+[01/09/2014 20:48:07] /r
+[01/09/2014 20:48:17] /i 12227
+[01/09/2014 20:48:18] /i 12227
+[01/09/2014 20:48:18] /i 12227
+[01/09/2014 20:48:19] /i 12227
+[01/09/2014 20:48:19] /i 12227
+[01/09/2014 20:48:20] /i 12227
+[01/09/2014 20:51:37] /i box tier 6
+[01/09/2014 20:51:44] /i box held t6
+[01/09/2014 20:51:48] /i box held t6
+[01/09/2014 20:51:48] /i box held t6
+[01/09/2014 20:51:49] /i box held t6
+[01/09/2014 20:51:49] /i box held t6
+[01/09/2014 20:51:49] /i box held t6
+[01/09/2014 20:53:12] !spy cone
+[01/09/2014 20:54:19] /addskill feartxc ,level ,20
+[01/09/2014 20:56:54] /i 12227
+[01/09/2014 20:56:55] /i 12227
+[01/09/2014 20:56:55] /i 12227
+[01/09/2014 20:56:56] /i 12227
+[01/09/2014 20:56:56] /i 12227
+[01/09/2014 20:56:57] /i 12227
+[01/09/2014 20:57:57] /i held box t6
+[01/09/2014 20:57:58] /i held box t6
+[01/09/2014 20:58:04] /i held box t6
+[01/09/2014 20:58:27] /i box held t6
+[01/09/2014 20:58:29] !spy cone
+[01/09/2014 20:58:36] !spy cone
+[01/09/2014 20:58:50] /i box held t6
+[01/09/2014 20:58:50] /i box held t6
+[01/09/2014 20:58:51] /i box held t6
+[01/09/2014 20:58:51] /i box held t6
+[01/09/2014 20:58:52] /i box held t6
+[01/09/2014 20:59:40] /i box held t6
+[01/09/2014 20:59:41] /i box held t6
+[01/09/2014 21:00:02] /i box held t6
+[01/09/2014 21:00:35] /i box held t6
+[01/09/2014 21:00:51] /i box held t6
+[01/09/2014 21:04:06] /r all
+[01/09/2014 21:04:22] /i held box t6
+[01/09/2014 21:04:23] /i held box t6
+[01/09/2014 21:04:24] /i held box t6
+[01/09/2014 21:04:33] /i box held t6
+[01/09/2014 21:04:33] /i box held t6
+[01/09/2014 21:04:34] /i box held t6
+[01/09/2014 21:04:34] /i box held t6
+[01/09/2014 21:04:35] /i box held t6
+[01/09/2014 21:04:37] /i box held t6
+[01/09/2014 21:04:37] /i box held t6
+[01/09/2014 21:04:38] /i box held t6
+[01/09/2014 21:04:38] /i box held t6
+[01/09/2014 21:04:38] /i box held t6
+[01/09/2014 21:04:39] /i box held t6
+[01/09/2014 21:04:40] /i box held t6
+[01/09/2014 21:04:50] /i 12227
+[01/09/2014 21:04:51] /i 12227
+[01/09/2014 21:04:52] /i 12227
+[01/09/2014 21:04:52] /i 12227
+[01/09/2014 21:04:52] /i 12227
+[01/09/2014 21:04:53] /i 12227
+[01/09/2014 21:06:41] /i box held t6
+[01/09/2014 21:06:42] /i box held t6
+[01/09/2014 21:06:43] /i box held t6
+[01/09/2014 21:06:43] /i box held t6
+[01/09/2014 21:06:54] /i box held t6
+[01/09/2014 21:11:12] /i 12227
+[01/09/2014 21:11:13] /i 12227
+[01/09/2014 21:11:13] /i 12227
+[01/09/2014 21:11:13] /i 12227
+[01/09/2014 21:11:14] /i 12227
+[01/09/2014 21:11:14] /i 12227
+[01/09/2014 21:11:27] /i 12227
+[01/09/2014 21:11:29] /i 12227
+[01/09/2014 21:11:31] /i 12227
+[01/09/2014 21:11:33] /i 12227
+[01/09/2014 21:11:35] /i 12227
+[01/09/2014 21:11:36] /i 12227
+[01/09/2014 21:11:38] /i 12227
+[01/09/2014 21:16:13] /i 12227
+[01/09/2014 21:16:14] /i 12227
+[01/09/2014 21:16:15] /i 12227
+[01/09/2014 21:16:15] /i 12227
+[01/09/2014 21:16:16] /i 12227
+[01/09/2014 21:16:16] /i 12227
+[01/09/2014 21:16:28] /i 12227
+[01/09/2014 21:16:59] /r all
+[01/09/2014 21:17:07] /r all
+[01/09/2014 21:17:20] /goto war dragonite
+[01/09/2014 21:17:28] /goto roll dophan
+[01/09/2014 21:23:19] /goto milotic
+[01/09/2014 21:24:14] /goto milotic
+[01/09/2014 21:24:58] /down
+[01/09/2014 21:25:02] /down
+[01/09/2014 21:27:53] /goto cone
+[01/09/2014 21:38:58] /goto minero
+[01/09/2014 21:39:08] /newtype 2358
+[01/09/2014 21:40:33] /newtype 1688
+[01/09/2014 21:40:35] /goto minero
+[01/09/2014 21:40:40] /newtype 1658
+[01/09/2014 21:42:34] /t
+[01/09/2014 21:42:43] /m shiny tangela
+[01/09/2014 21:42:44] /m shiny tangela
+[01/09/2014 21:42:44] /m shiny tangela
+[01/09/2014 21:42:45] /m shiny tangela
+[01/09/2014 21:42:46] /m shiny tangela
+[01/09/2014 21:43:41] /m shiny tangela
+[01/09/2014 21:43:41] /m shiny tangela
+[01/09/2014 21:43:42] /m shiny tangela
+[01/09/2014 21:43:42] /m shiny tangela
+[01/09/2014 21:43:43] /m shiny tangela
+[01/09/2014 21:43:43] /m shiny tangela
+[01/09/2014 21:44:44] /m shiny tangela
+[01/09/2014 21:44:44] /m shiny tangela
+[01/09/2014 21:44:45] /m shiny tangela
+[01/09/2014 21:44:45] /m shiny tangela
+[01/09/2014 21:44:46] /m shiny tangela
+[01/09/2014 21:44:58] /i safari ball
+[01/09/2014 21:45:05] /i safari ball
+[01/09/2014 21:45:13] /i saffari ball
+[01/09/2014 21:45:22] /i shiny golem
+[01/09/2014 21:45:31] /i shiny golem
+[01/09/2014 21:47:01] /goto minero
+[01/09/2014 21:52:46] /i x-return t7
+[01/09/2014 21:52:47] /i x-return t7
+[01/09/2014 21:52:48] /i x-return t7
+[01/09/2014 21:52:48] /i x-return t7
+[01/09/2014 21:53:28] /mode 1
+[01/09/2014 21:53:28] /mode 2
+[01/09/2014 22:24:05] /goto minero
+[01/09/2014 22:25:09] /m shiny onix
+[01/09/2014 22:25:10] /m shiny onix
+[01/09/2014 22:25:10] /m shiny onix
+[01/09/2014 22:25:10] /m shiny onix
+[01/09/2014 22:25:11] /m shiny onix
+[01/09/2014 22:25:12] /m shiny onix
+[01/09/2014 22:25:13] /m shiny onix
+[01/09/2014 22:25:15] /m shiny onix
+[01/09/2014 22:25:15] /m shiny onix
+[01/09/2014 22:25:15] /m shiny onix
+[01/09/2014 22:25:16] /m shiny onix
+[01/09/2014 22:25:16] /m shiny onix
+[01/09/2014 22:25:44] /goto shiny onix
+[01/09/2014 22:25:50] /goto coro
+[01/09/2014 22:25:57] /goto cone
+[01/09/2014 22:28:02] /goto ancient meganium
+[01/09/2014 22:28:54] /goto pidgeot
+[01/09/2014 22:28:58] /t
+[01/09/2014 22:29:10] /m shiny pidgeot
+[01/09/2014 22:29:10] /m shiny pidgeot
+[01/09/2014 22:29:11] /m shiny pidgeot
+[01/09/2014 22:29:11] /m shiny pidgeot
+[01/09/2014 22:29:11] /m shiny pidgeot
+[01/09/2014 22:29:12] /m shiny pidgeot
+[01/09/2014 22:29:12] /m shiny pidgeot
+[01/09/2014 22:29:13] /m shiny pidgeot
+[01/09/2014 22:29:17] /m shiny pidgeot
+[01/09/2014 22:29:17] /m shiny pidgeot
+[01/09/2014 22:29:21] /m shiny pidgeot
+[01/09/2014 22:29:38] /i revive
+[01/09/2014 22:31:40] /m shiny pidgeot
+[01/09/2014 22:31:40] /m shiny pidgeot
+[01/09/2014 22:31:42] /m shiny pidgeot
+[01/09/2014 22:32:43] /m shiny pidegeot
+[01/09/2014 22:32:44] /m shiny pidegeot
+[01/09/2014 22:32:48] /m shiny pidgeot
+[01/09/2014 22:32:49] /m shiny pidgeot
+[01/09/2014 22:32:50] /m shiny pidgeot
+[01/09/2014 22:32:50] /m shiny pidgeot
+[01/09/2014 22:32:51] /m shiny pidgeot
+[01/09/2014 22:32:51] /m shiny pidgeot
+[01/09/2014 22:32:51] /m shiny pidgeot
+[01/09/2014 22:32:52] /m shiny pidgeot
+[01/09/2014 22:32:52] /m shiny pidgeot
+[01/09/2014 22:32:52] /m shiny pidgeot
+[01/09/2014 22:33:30] /i ultra ball
+[01/09/2014 22:33:42] /m shiny pidgeot
+[01/09/2014 22:33:43] /m shiny pidgeot
+[01/09/2014 22:33:43] /m shiny pidgeot
+[01/09/2014 22:33:43] /m shiny pidgeot
+[01/09/2014 22:33:44] /m shiny pidgeot
+[01/09/2014 22:33:44] /m shiny pidgeot
+[01/09/2014 22:33:44] /m shiny pidgeot
+[01/09/2014 22:33:45] /m shiny pidgeot
+[01/09/2014 22:33:45] /m shiny pidgeot
+[01/09/2014 22:33:45] /m shiny pidgeot
+[01/09/2014 22:33:46] /m shiny pidgeot
+[01/09/2014 22:34:42] /m shiny pidegoet
+[01/09/2014 22:34:45] /m shiny pidgeot
+[01/09/2014 22:34:46] /m shiny pidgeot
+[01/09/2014 22:34:46] /m shiny pidgeot
+[01/09/2014 22:34:47] /m shiny pidgeot
+[01/09/2014 22:34:47] /m shiny pidgeot
+[01/09/2014 22:34:48] /m shiny pidgeot
+[01/09/2014 22:34:49] /m shiny pidgeot
+[01/09/2014 22:34:50] /m shiny pidgeot
+[01/09/2014 22:34:51] /m shiny pidgeot
+[01/09/2014 22:34:51] /m shiny pidgeot
+[01/09/2014 22:34:53] /m shiny pidgeot
+[01/09/2014 22:34:54] /m shiny pidgeot
+[01/09/2014 22:34:56] /m shiny pidgeot
+[01/09/2014 22:34:56] /m shiny pidgeot
+[01/09/2014 22:35:36] /m shiny pidgeot
+[01/09/2014 22:35:36] /m shiny pidgeot
+[01/09/2014 22:35:37] /m shiny pidgeot
+[01/09/2014 22:35:37] /m shiny pidgeot
+[01/09/2014 22:35:38] /m shiny pidgeot
+[01/09/2014 22:35:38] /m shiny pidgeot
+[01/09/2014 22:35:39] /m shiny pidgeot
+[01/09/2014 22:35:40] /m shiny pidgeot
+[01/09/2014 22:35:40] /m shiny pidgeot
+[01/09/2014 22:35:41] /m shiny pidgeot
+[01/09/2014 22:35:41] /m shiny pidgeot
+[01/09/2014 22:35:42] /m shiny pidgeot
+[01/09/2014 22:35:42] /m shiny pidgeot
+[01/09/2014 22:35:43] /m shiny pidgeot
+[01/09/2014 22:35:43] /m shiny pidgeot
+[01/09/2014 22:36:33] /m shiny pidgeot
+[01/09/2014 22:36:34] /m shiny pidgeot
+[01/09/2014 22:36:34] /m shiny pidgeot
+[01/09/2014 22:36:35] /m shiny pidgeot
+[01/09/2014 22:36:35] /m shiny pidgeot
+[01/09/2014 22:36:36] /m shiny pidgeot
+[01/09/2014 22:36:37] /m shiny pidgeot
+[01/09/2014 22:36:38] /m shiny pidgeot
+[01/09/2014 22:36:38] /m shiny pidgeot
+[01/09/2014 22:36:39] /m shiny pidgeot
+[01/09/2014 22:36:39] /m shiny pidgeot
+[01/09/2014 22:36:40] /m shiny pidgeot
+[01/09/2014 22:36:41] /m shiny pidgeot
+[01/09/2014 22:36:42] /m shiny pidgeot
+[01/09/2014 22:36:43] /m shiny pidgeot
+[01/09/2014 22:36:44] /m shiny pidgeot
+[01/09/2014 22:36:44] /m shiny pidgeot
+[01/09/2014 22:36:45] /m shiny pidgeot
+[01/09/2014 22:37:20] /m shiny pidgeot
+[01/09/2014 22:37:20] /m shiny pidgeot
+[01/09/2014 22:37:20] /m shiny pidgeot
+[01/09/2014 22:37:21] /m shiny pidgeot
+[01/09/2014 22:37:21] /m shiny pidgeot
+[01/09/2014 22:37:22] /m shiny pidgeot
+[01/09/2014 22:37:22] /m shiny pidgeot
+[01/09/2014 22:37:22] /m shiny pidgeot
+[01/09/2014 22:37:23] /m shiny pidgeot
+[01/09/2014 22:37:23] /m shiny pidgeot
+[01/09/2014 22:37:23] /m shiny pidgeot
+[01/09/2014 22:37:24] /m shiny pidgeot
+[01/09/2014 22:37:51] /m shiny pidgeot
+[01/09/2014 22:37:52] /m shiny pidgeot
+[01/09/2014 22:37:52] /m shiny pidgeot
+[01/09/2014 22:37:53] /m shiny pidgeot
+[01/09/2014 22:37:56] /m shiny pidgeot
+[01/09/2014 22:37:56] /m shiny pidgeot
+[01/09/2014 22:37:57] /m shiny pidgeot
+[01/09/2014 22:37:58] /m shiny pidgeot
+[01/09/2014 22:38:20] /m shiny pidgeot
+[01/09/2014 22:38:22] /m shiny pidgeot
+[01/09/2014 22:38:22] /m shiny pidgeot
+[01/09/2014 22:38:23] /m shiny pidgeot
+[01/09/2014 22:38:23] /m shiny pidgeot
+[01/09/2014 22:38:24] /m shiny pidgeot
+[01/09/2014 22:38:25] /m shiny pidgeot
+[01/09/2014 22:38:25] /m shiny pidgeot
+[01/09/2014 22:38:26] /m shiny pidgeot
+[01/09/2014 22:38:29] /m shiny pidgeot
+[01/09/2014 22:38:29] /m shiny pidgeot
+[01/09/2014 22:38:29] /m shiny pidgeot
+[01/09/2014 22:38:30] /m shiny pidgeot
+[01/09/2014 22:38:30] /m shiny pidgeot
+[01/09/2014 22:38:30] /m shiny pidgeot
+[01/09/2014 22:40:53] /m shiny pidgeot
+[01/09/2014 22:40:53] /m shiny pidgeot
+[01/09/2014 22:40:53] /m shiny pidgeot
+[01/09/2014 22:40:54] /m shiny pidgeot
+[01/09/2014 22:40:54] /m shiny pidgeot
+[01/09/2014 22:40:54] /m shiny pidgeot
+[01/09/2014 22:40:55] /m shiny pidgeot
+[01/09/2014 22:40:55] /m shiny pidgeot
+[01/09/2014 22:40:55] /m shiny pidgeot
+[01/09/2014 22:41:47] /i ultra ball
+[01/09/2014 22:42:00] /i ultra ball
+[01/09/2014 22:42:00] /i ultra ball
+[01/09/2014 22:42:03] /m shiny pidgeot
+[01/09/2014 22:42:03] /m shiny pidgeot
+[01/09/2014 22:42:04] /m shiny pidgeot
+[01/09/2014 22:42:05] /m shiny pidgeot
+[01/09/2014 22:42:05] /m shiny pidgeot
+[01/09/2014 22:42:06] /m shiny pidgeot
+[01/09/2014 22:42:06] /m shiny pidgeot
+[01/09/2014 22:42:06] /m shiny pidgeot
+[01/09/2014 22:42:07] /m shiny pidgeot
+[01/09/2014 22:42:07] /m shiny pidgeot
+[01/09/2014 22:42:07] /m shiny pidgeot
+[01/09/2014 22:42:08] /m shiny pidgeot
+[01/09/2014 22:42:08] /m shiny pidgeot
+[01/09/2014 22:42:08] /m shiny pidgeot
+[01/09/2014 22:42:09] /m shiny pidgeot
+[01/09/2014 22:42:09] /m shiny pidgeot
+[01/09/2014 22:42:09] /m shiny pidgeot
+[01/09/2014 22:42:10] /m shiny pidgeot
+[01/09/2014 22:42:35] /m shiny pidgeot
+[01/09/2014 22:42:35] /m shiny pidgeot
+[01/09/2014 22:42:35] /m shiny pidgeot
+[01/09/2014 22:42:36] /m shiny pidgeot
+[01/09/2014 22:42:36] /m shiny pidgeot
+[01/09/2014 22:42:36] /m shiny pidgeot
+[01/09/2014 22:42:37] /m shiny pidgeot
+[01/09/2014 22:42:37] /m shiny pidgeot
+[01/09/2014 22:42:37] /m shiny pidgeot
+[01/09/2014 22:42:38] /m shiny pidgeot
+[01/09/2014 22:42:38] /m shiny pidgeot
+[01/09/2014 22:42:38] /m shiny pidgeot
+[01/09/2014 22:42:39] /m shiny pidgeot
+[01/09/2014 22:42:39] /m shiny pidgeot
+[01/09/2014 22:42:39] /m shiny pidgeot
+[01/09/2014 22:43:19] /m shiny pidgeot
+[01/09/2014 22:43:20] /m shiny pidgeot
+[01/09/2014 22:43:20] /m shiny pidgeot
+[01/09/2014 22:43:20] /m shiny pidgeot
+[01/09/2014 22:43:21] /m shiny pidgeot
+[01/09/2014 22:43:21] /m shiny pidgeot
+[01/09/2014 22:43:21] /m shiny pidgeot
+[01/09/2014 22:43:22] /m shiny pidgeot
+[01/09/2014 22:43:42] /m shiny pidgeot
+[01/09/2014 22:43:42] /m shiny pidgeot
+[01/09/2014 22:43:42] /m shiny pidgeot
+[01/09/2014 22:43:43] /m shiny pidgeot
+[01/09/2014 22:43:43] /m shiny pidgeot
+[01/09/2014 22:43:43] /m shiny pidgeot
+[01/09/2014 22:43:44] /m shiny pidgeot
+[01/09/2014 22:43:44] /m shiny pidgeot
+[01/09/2014 22:43:45] /m shiny pidgeot
+[01/09/2014 22:43:45] /m shiny pidgeot
+[01/09/2014 22:43:45] /m shiny pidgeot
+[01/09/2014 22:43:46] /m shiny pidgeot
+[01/09/2014 22:43:46] /m shiny pidgeot
+[01/09/2014 22:43:46] /m shiny pidgeot
+[01/09/2014 22:43:47] /m shiny pidgeot
+[01/09/2014 22:44:23] /m shiny pidgeot
+[01/09/2014 22:44:24] /m shiny pidgeot
+[01/09/2014 22:44:24] /m shiny pidgeot
+[01/09/2014 22:44:24] /m shiny pidgeot
+[01/09/2014 22:44:25] /m shiny pidgeot
+[01/09/2014 22:44:25] /m shiny pidgeot
+[01/09/2014 22:44:25] /m shiny pidgeot
+[01/09/2014 22:44:26] /m shiny pidgeot
+[01/09/2014 22:44:26] /m shiny pidgeot
+[01/09/2014 22:44:26] /m shiny pidgeot
+[01/09/2014 22:44:46] /m shiny pidgeot
+[01/09/2014 22:44:47] /m shiny pidgeot
+[01/09/2014 22:44:47] /m shiny pidgeot
+[01/09/2014 22:44:48] /m shiny pidgeot
+[01/09/2014 22:44:48] /m shiny pidgeot
+[01/09/2014 22:44:48] /m shiny pidgeot
+[01/09/2014 22:44:49] /m shiny pidgeot
+[01/09/2014 22:44:49] /m shiny pidgeot
+[01/09/2014 22:44:50] /m shiny pidgeot
+[01/09/2014 22:44:50] /m shiny pidgeot
+[01/09/2014 22:44:50] /m shiny pidgeot
+[01/09/2014 22:45:18] /m shiny pidgeot
+[01/09/2014 22:45:18] /m shiny pidgeot
+[01/09/2014 22:45:19] /m shiny pidgeot
+[01/09/2014 22:45:19] /m shiny pidgeot
+[01/09/2014 22:45:19] /m shiny pidgeot
+[01/09/2014 22:45:20] /m shiny pidgeot
+[01/09/2014 22:45:20] /m shiny pidgeot
+[01/09/2014 22:45:21] /m shiny pidgeot
+[01/09/2014 22:45:38] /m shiny pidgeot
+[01/09/2014 22:45:38] /m shiny pidgeot
+[01/09/2014 22:45:38] /m shiny pidgeot
+[01/09/2014 22:45:39] /m shiny pidgeot
+[01/09/2014 22:45:39] /m shiny pidgeot
+[01/09/2014 22:45:39] /m shiny pidgeot
+[01/09/2014 22:45:40] /m shiny pidgeot
+[01/09/2014 22:45:40] /m shiny pidgeot
+[01/09/2014 22:45:40] /m shiny pidgeot
+[01/09/2014 22:45:46] /m shiny pidgeot
+[01/09/2014 22:45:46] /m shiny pidgeot
+[01/09/2014 22:45:46] /m shiny pidgeot
+[01/09/2014 22:45:47] /m shiny pidgeot
+[01/09/2014 22:45:47] /m shiny pidgeot
+[01/09/2014 22:45:48] /m shiny pidgeot
+[01/09/2014 22:45:48] /m shiny pidgeot
+[01/09/2014 22:45:48] /m shiny pidgeot
+[01/09/2014 22:45:49] /m shiny pidgeot
+[01/09/2014 22:45:49] /m shiny pidgeot
+[01/09/2014 22:45:49] /m shiny pidgeot
+[01/09/2014 22:46:16] /m shiny pidgeot
+[01/09/2014 22:46:16] /m shiny pidgeot
+[01/09/2014 22:46:16] /m shiny pidgeot
+[01/09/2014 22:46:17] /m shiny pidgeot
+[01/09/2014 22:46:17] /m shiny pidgeot
+[01/09/2014 22:46:20] /m shiny pidgeot
+[01/09/2014 22:46:21] /m shiny pidgeot
+[01/09/2014 22:46:21] /m shiny pidgeot
+[01/09/2014 22:46:21] /m shiny pidgeot
+[01/09/2014 22:46:22] /m shiny pidgeot
+[01/09/2014 22:46:22] /m shiny pidgeot
+[01/09/2014 22:46:22] /m shiny pidgeot
+[01/09/2014 22:46:23] /m shiny pidgeot
+[01/09/2014 22:46:23] /m shiny pidgeot
+[01/09/2014 22:46:23] /m shiny pidgeot
+[01/09/2014 22:46:24] /m shiny pidgeot
+[01/09/2014 22:47:09] /m shiny magmar
+[01/09/2014 22:47:10] /m shiny magmar
+[01/09/2014 22:47:10] /m shiny magmar
+[01/09/2014 22:47:11] /m shiny magmar
+[01/09/2014 22:47:11] /m shiny magmar
+[01/09/2014 22:47:11] /m shiny magmar
+[01/09/2014 22:47:12] /m shiny magmar
+[01/09/2014 22:47:12] /m shiny magmar
+[01/09/2014 22:47:14] /m shiny magmar
+[01/09/2014 22:47:14] /m shiny magmar
+[01/09/2014 22:47:15] /m shiny magmar
+[01/09/2014 22:47:15] /m shiny magmar
+[01/09/2014 22:47:15] /m shiny magmar
+[01/09/2014 22:47:16] /m shiny magmar
+[01/09/2014 22:47:16] /m shiny magmar
+[01/09/2014 22:47:18] /m shiny magmar
+[01/09/2014 22:47:18] /m shiny magmar
+[01/09/2014 22:47:19] /m shiny magmar
+[01/09/2014 22:47:19] /m shiny magmar
+[01/09/2014 22:47:19] /m shiny magmar
+[01/09/2014 22:47:20] /m shiny magmar
+[01/09/2014 22:47:20] /m shiny magmar
+[01/09/2014 22:47:25] /m shiny magmar
+[01/09/2014 22:47:26] /m shiny magmar
+[01/09/2014 22:47:26] /m shiny magmar
+[01/09/2014 22:47:26] /m shiny magmar
+[01/09/2014 22:47:27] /m shiny magmar
+[01/09/2014 22:47:30] /m shiny magmar
+[01/09/2014 22:47:31] /m shiny magmar
+[01/09/2014 22:47:32] /m shiny magmar
+[01/09/2014 22:47:32] /m shiny magmar
+[01/09/2014 22:47:32] /m shiny magmar
+[01/09/2014 22:47:33] /m shiny magmar
+[01/09/2014 22:47:36] /m shiny magmar
+[01/09/2014 22:47:37] /m shiny magmar
+[01/09/2014 22:47:37] /m shiny magmar
+[01/09/2014 22:47:38] /m shiny magmar
+[01/09/2014 22:47:41] /m shiny magmar
+[01/09/2014 22:47:41] /m shiny magmar
+[01/09/2014 22:47:42] /m shiny magmar
+[01/09/2014 22:47:43] /m shiny magmar
+[01/09/2014 22:47:43] /m shiny magmar
+[01/09/2014 22:47:46] /m shiny magmar
+[01/09/2014 22:47:46] /m shiny magmar
+[01/09/2014 22:47:47] /m shiny magmar
+[01/09/2014 22:47:47] /m shiny magmar
+[01/09/2014 22:48:59] /m shiny magmar
+[01/09/2014 22:48:59] /m shiny magmar
+[01/09/2014 22:49:00] /m shiny magmar
+[01/09/2014 22:49:00] /m shiny magmar
+[01/09/2014 22:49:00] /m shiny magmar
+[01/09/2014 22:49:01] /m shiny magmar
+[01/09/2014 22:49:01] /m shiny magmar
+[01/09/2014 22:49:01] /m shiny magmar
+[01/09/2014 22:49:02] /m shiny magmar
+[01/09/2014 22:49:02] /m shiny magmar
+[01/09/2014 22:49:03] /m shiny magmar
+[01/09/2014 22:49:03] /m shiny magmar
+[01/09/2014 22:49:03] /m shiny magmar
+[01/09/2014 22:49:04] /m shiny magmar
+[01/09/2014 22:49:04] /m shiny magmar
+[01/09/2014 22:49:04] /m shiny magmar
+[01/09/2014 22:49:05] /m shiny magmar
+[01/09/2014 22:49:05] /m shiny magmar
+[01/09/2014 22:49:06] /m shiny magmar
+[01/09/2014 22:49:06] /m shiny magmar
+[01/09/2014 22:49:06] /m shiny magmar
+[01/09/2014 22:49:12] /m shiny magmar
+[01/09/2014 22:49:13] /m shiny magmar
+[01/09/2014 22:50:32] /m shiny magmar
+[01/09/2014 22:50:33] /m shiny magmar
+[01/09/2014 22:50:33] /m shiny magmar
+[01/09/2014 22:50:34] /m shiny magmar
+[01/09/2014 22:50:34] /m shiny magmar
+[01/09/2014 22:50:35] /m shiny magmar
+[01/09/2014 22:50:36] /m shiny magmar
+[01/09/2014 22:50:36] /m shiny magmar
+[01/09/2014 22:50:37] /m shiny magmar
+[01/09/2014 22:50:37] /m shiny magmar
+[01/09/2014 22:50:38] /m shiny magmar
+[01/09/2014 22:50:38] /m shiny magmar
+[01/09/2014 22:50:39] /m shiny magmar
+[01/09/2014 22:50:40] /m shiny magmar
+[01/09/2014 22:51:15] /m shiny magmar
+[01/09/2014 22:51:16] /m shiny magmar
+[01/09/2014 22:51:16] /m shiny magmar
+[01/09/2014 22:51:16] /m shiny magmar
+[01/09/2014 22:51:17] /m shiny magmar
+[01/09/2014 22:51:17] /m shiny magmar
+[01/09/2014 22:51:21] /m shiny magmar
+[01/09/2014 22:51:21] /m shiny magmar
+[01/09/2014 22:51:22] /m shiny magmar
+[01/09/2014 22:51:22] /m shiny magmar
+[01/09/2014 22:51:22] /m shiny magmar
+[01/09/2014 22:51:25] /m shiny magmar
+[01/09/2014 22:51:25] /m shiny magmar
+[01/09/2014 22:51:26] /m shiny magmar
+[01/09/2014 22:51:26] /m shiny magmar
+[01/09/2014 22:51:26] /m shiny magmar
+[01/09/2014 22:51:27] /m shiny magmar
+[01/09/2014 22:51:27] /m shiny magmar
+[01/09/2014 22:51:27] /m shiny magmar
+[01/09/2014 22:51:28] /m shiny magmar
+[01/09/2014 22:51:28] /m shiny magmar
+[01/09/2014 22:51:29] /m shiny magmar
+[01/09/2014 22:51:29] /m shiny magmar
+[01/09/2014 22:51:29] /m shiny magmar
+[01/09/2014 22:51:30] /m shiny magmar
+[01/09/2014 22:51:30] /m shiny magmar
+[01/09/2014 22:51:31] /m shiny magmar
+[01/09/2014 22:51:31] /m shiny magmar
+[01/09/2014 22:51:32] /m shiny magmar
+[01/09/2014 22:51:32] /m shiny magmar
+[01/09/2014 22:51:32] /m shiny magmar
+[01/09/2014 22:51:33] /m shiny magmar
+[01/09/2014 22:51:33] /m shiny magmar
+[01/09/2014 22:51:34] /m shiny magmar
+[01/09/2014 22:51:34] /m shiny magmar
+[01/09/2014 22:51:34] /m shiny magmar
+[01/09/2014 22:51:35] /m shiny magmar
+[01/09/2014 22:51:35] /m shiny magmar
+[01/09/2014 22:51:36] /m shiny magmar
+[01/09/2014 22:51:36] /m shiny magmar
+[01/09/2014 22:51:36] /m shiny magmar
+[01/09/2014 22:51:37] /m shiny magmar
+[01/09/2014 22:51:37] /m shiny magmar
+[01/09/2014 22:51:37] /m shiny magmar
+[01/09/2014 22:51:38] /m shiny magmar
+[01/09/2014 22:51:38] /m shiny magmar
+[01/09/2014 22:51:39] /m shiny magmar
+[01/09/2014 22:51:39] /m shiny magmar
+[01/09/2014 22:58:18] /i revive
+[01/09/2014 23:34:54] /goto minero
+[01/09/2014 23:52:37] /goto minero
+[01/09/2014 23:53:27] /m shiny gengar
+[01/09/2014 23:53:28] /m shiny gengar
+[01/09/2014 23:53:28] /m shiny gengar
+[01/09/2014 23:53:29] /m shiny gengar
+[01/09/2014 23:53:30] /m shiny gengar
+[01/09/2014 23:53:31] /m shiny gengar
+[01/09/2014 23:53:32] /m shiny gengar
+[01/09/2014 23:53:33] /m shiny gengar
+[01/09/2014 23:55:45] /m shiny dratini
+[01/09/2014 23:55:46] /m shiny dratini
+[01/09/2014 23:55:58] /m shiny dratini
+[01/09/2014 23:55:58] /m shiny dratini
+[01/09/2014 23:55:59] /m shiny dratini
+[01/09/2014 23:56:11] /m shiny dratini
+[01/09/2014 23:56:27] /i fainted shiny dratini
+[01/09/2014 23:56:30] /i fainted shiny dratini
+[01/09/2014 23:56:31] /i fainted shiny dratini
+[01/09/2014 23:56:31] /i fainted shiny dratini
+[01/09/2014 23:56:31] /i fainted shiny dratini
+[01/09/2014 23:56:35] /i fainted shiny dratini
+[01/09/2014 23:56:36] /i fainted shiny dratini
+[01/09/2014 23:56:36] /i fainted shiny dratini
+[01/09/2014 23:56:36] /i fainted shiny dratini
+[01/09/2014 23:56:37] /i fainted shiny dratini
+[01/09/2014 23:56:37] /i fainted shiny dratini
+[01/09/2014 23:56:37] /i fainted shiny dratini
+[01/09/2014 23:56:37] /i fainted shiny dratini
+[01/09/2014 23:56:38] /i fainted shiny dratini
+[01/09/2014 23:56:46] /i fainted shiny dratini
+[01/09/2014 23:56:47] /i fainted shiny dratini
+[01/09/2014 23:56:47] /i fainted shiny dratini
+[01/09/2014 23:56:48] /i fainted shiny dratini
+[01/09/2014 23:56:48] /i fainted shiny dratini
+[01/09/2014 23:56:48] /i fainted shiny dratini
+[01/09/2014 23:56:49] /i fainted shiny dratini
+[01/09/2014 23:56:49] /i fainted shiny dratini
+[01/09/2014 23:56:50] /i fainted shiny dratini
+[01/09/2014 23:56:50] /i fainted shiny dratini
+[01/09/2014 23:57:02] /i fainted shiny dratini
+[01/09/2014 23:57:03] /i fainted shiny dratini
+[01/09/2014 23:57:05] /i fainted shiny dratini
+[01/09/2014 23:57:06] /i fainted shiny dratini
+[01/09/2014 23:58:21] /m fainted salamence
+[01/09/2014 23:58:23] /m fainted salamence
+[01/09/2014 23:58:27] /m salemce
+[01/09/2014 23:58:32] /m salamence
+[01/09/2014 23:58:38] /i fanted shiny salamence
+[01/09/2014 23:58:45] /i fanted salamence
+[01/09/2014 23:59:09] /i fainted salamence
+[01/09/2014 23:59:11] /i fainted salamence
+[01/09/2014 23:59:21] /i fainted salamence
+[01/09/2014 23:59:22] /i fainted salamence
+[01/09/2014 23:59:22] /i fainted salamence
+[01/09/2014 23:59:23] /i fainted salamence
+[01/09/2014 23:59:23] /i fainted salamence
+[01/09/2014 23:59:23] /i fainted salamence
+[01/09/2014 23:59:24] /i fainted salamence
+[01/09/2014 23:59:24] /i fainted salamence
+[01/09/2014 23:59:24] /i fainted salamence
+[01/09/2014 23:59:25] /i fainted salamence
+[01/09/2014 23:59:25] /i fainted salamence
+[01/09/2014 23:59:26] /i fainted salamence
+[01/09/2014 23:59:26] /i fainted salamence
+[01/09/2014 23:59:26] /i fainted salamence
+[01/09/2014 23:59:27] /i fainted salamence
+[01/09/2014 23:59:27] /i fainted salamence
+[01/09/2014 23:59:27] /i fainted salamence
+[01/09/2014 23:59:28] /i fainted salamence
+[01/09/2014 23:59:28] /i fainted salamence
+[01/09/2014 23:59:28] /i fainted salamence
+[01/09/2014 23:59:29] /i fainted salamence
+[01/09/2014 23:59:29] /i fainted salamence
+[01/09/2014 23:59:29] /i fainted salamence
+[01/09/2014 23:59:30] /i fainted salamence
+[01/09/2014 23:59:30] /i fainted salamence
+[01/09/2014 23:59:31] /i fainted salamence
+[01/09/2014 23:59:31] /i fainted salamence
+[01/09/2014 23:59:32] /i fainted salamence
+[02/09/2014 00:00:16] /i fainted salamence
+[02/09/2014 00:00:16] /i fainted salamence
+[02/09/2014 00:00:17] /i fainted salamence
+[02/09/2014 00:00:17] /i fainted salamence
+[02/09/2014 00:00:18] /i fainted salamence
+[02/09/2014 00:00:18] /i fainted salamence
+[02/09/2014 00:00:18] /i fainted salamence
+[02/09/2014 00:00:19] /i fainted salamence
+[02/09/2014 00:00:19] /i fainted salamence
+[02/09/2014 00:00:19] /i fainted salamence
+[02/09/2014 00:00:20] /i fainted salamence
+[02/09/2014 00:00:20] /i fainted salamence
+[02/09/2014 00:00:21] /t
+[02/09/2014 00:00:40] /c minero
+[02/09/2014 00:01:22] /i fanted shiny grimer
+[02/09/2014 00:01:23] /i fanted shiny grimer
+[02/09/2014 00:01:23] /i fanted shiny grimer
+[02/09/2014 00:01:32] /m shiny grimer
+[02/09/2014 00:01:47] /i fainted shiny grimer
+[02/09/2014 00:01:49] /i fainted shiny grimer
+[02/09/2014 00:01:49] /i fainted shiny grimer
+[02/09/2014 00:01:50] /i fainted shiny grimer
+[02/09/2014 00:01:50] /i fainted shiny grimer
+[02/09/2014 00:01:51] /i fainted shiny grimer
+[02/09/2014 00:01:51] /i fainted shiny grimer
+[02/09/2014 00:01:52] /i fainted shiny grimer
+[02/09/2014 00:01:52] /i fainted shiny grimer
+[02/09/2014 00:01:53] /i fainted shiny grimer
+[02/09/2014 00:01:53] /i fainted shiny grimer
+[02/09/2014 00:02:14] /i ultra ball
+[02/09/2014 00:02:45] /i fainted shiny scyther
+[02/09/2014 00:02:46] /i fainted shiny scyther
+[02/09/2014 00:02:47] /i fainted shiny scyther
+[02/09/2014 00:02:47] /i fainted shiny scyther
+[02/09/2014 00:02:47] /i fainted shiny scyther
+[02/09/2014 00:02:48] /i fainted shiny scyther
+[02/09/2014 00:03:07] /i fainted shiny scyther
+[02/09/2014 00:03:07] /i fainted shiny scyther
+[02/09/2014 00:03:08] /i fainted shiny scyther
+[02/09/2014 00:03:09] /i fainted shiny scyther
+[02/09/2014 00:03:09] /i fainted shiny scyther
+[02/09/2014 00:03:09] /i fainted shiny scyther
+[02/09/2014 00:03:10] /i fainted shiny scyther
+[02/09/2014 00:03:10] /i fainted shiny scyther
+[02/09/2014 00:03:10] /i fainted shiny scyther
+[02/09/2014 00:03:11] /i fainted shiny scyther
+[02/09/2014 00:03:11] /i fainted shiny scyther
+[02/09/2014 00:03:12] /i fainted shiny scyther
+[02/09/2014 00:03:20] /i fainted shiny scyther
+[02/09/2014 00:03:21] /i fainted shiny scyther
+[02/09/2014 00:03:37] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:38] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:39] /i fainted shiny scyther
+[02/09/2014 00:03:40] /i fainted shiny scyther
+[02/09/2014 00:03:40] /i fainted shiny scyther
+[02/09/2014 00:03:40] /i fainted shiny scyther
+[02/09/2014 00:03:40] /i fainted shiny scyther
+[02/09/2014 00:03:40] /i fainted shiny scyther
+[02/09/2014 00:03:40] /i fainted shiny scyther
+[02/09/2014 00:03:40] /i fainted shiny scyther
+[02/09/2014 00:03:40] /i fainted shiny scyther
+[02/09/2014 00:03:40] /i fainted shiny scyther
+[02/09/2014 00:03:40] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:11] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:12] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:13] /i fainted shiny scyther
+[02/09/2014 00:04:14] /i fainted shiny scyther
+[02/09/2014 00:04:14] /i fainted shiny scyther
+[02/09/2014 00:04:14] /i fainted shiny scyther
+[02/09/2014 00:04:14] /i fainted shiny scyther
+[02/09/2014 00:04:14] /i fainted shiny scyther
+[02/09/2014 00:04:14] /i fainted shiny scyther
+[02/09/2014 00:04:14] /i fainted shiny scyther
+[02/09/2014 00:04:14] /i fainted shiny scyther
+[02/09/2014 00:04:14] /i fainted shiny scyther
+[02/09/2014 00:04:14] /i fainted shiny scyther
+[02/09/2014 00:04:51] /i safari ball
+[02/09/2014 00:04:54] /i safari ball
+[02/09/2014 00:05:02] /i saffari ball
+[02/09/2014 00:05:03] /i saffari ball
+[02/09/2014 00:05:04] /i saffari ball
+[02/09/2014 00:05:04] /i saffari ball
+[02/09/2014 00:05:04] /i saffari ball
+[02/09/2014 00:05:05] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:06] /i fainted shiny scyther
+[02/09/2014 00:05:07] /i fainted shiny scyther
+[02/09/2014 00:05:07] /i fainted shiny scyther
+[02/09/2014 00:05:07] /i fainted shiny scyther
+[02/09/2014 00:05:07] /i fainted shiny scyther
+[02/09/2014 00:05:07] /i fainted shiny scyther
+[02/09/2014 00:05:07] /i fainted shiny scyther
+[02/09/2014 00:05:44] /i fainted shiny scyther
+[02/09/2014 00:05:44] /i fainted shiny scyther
+[02/09/2014 00:05:44] /i fainted shiny scyther
+[02/09/2014 00:05:44] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:45] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:46] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:47] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:48] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:49] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:50] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:51] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:52] /i fainted shiny scyther
+[02/09/2014 00:05:53] /i fainted shiny scyther
+[02/09/2014 00:08:10] /i fainted shiny scyther
+[02/09/2014 00:08:10] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:11] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:12] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:13] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:14] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:15] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:16] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:17] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:18] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:19] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:20] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:21] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:22] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:23] /i fainted shiny scyther
+[02/09/2014 00:08:54] /i fanted shiny salamence
+[02/09/2014 00:08:57] /i fanted shiny salamece
+[02/09/2014 00:09:01] /i fanted salamence
+[02/09/2014 00:09:06] /i fainted salamence
+[02/09/2014 00:09:23] /i fainted shiny salamence
+[02/09/2014 00:09:25] /i fainted shiny salamence
+[02/09/2014 00:09:26] /i fainted shiny salamence
+[02/09/2014 00:09:26] /i fainted shiny salamence
+[02/09/2014 00:09:27] /i fainted shiny salamence
+[02/09/2014 00:09:27] /i fainted shiny salamence
+[02/09/2014 00:09:27] /i fainted shiny salamence
+[02/09/2014 00:09:28] /i fainted shiny salamence
+[02/09/2014 00:09:28] /i fainted shiny salamence
+[02/09/2014 00:09:28] /i fainted shiny salamence
+[02/09/2014 00:09:29] /i fainted shiny salamence
+[02/09/2014 00:09:29] /i fainted shiny salamence
+[02/09/2014 00:09:58] /i fainted shiny salamence
+[02/09/2014 00:10:01] /i fainted shiny salamence
+[02/09/2014 00:10:01] /i fainted shiny salamence
+[02/09/2014 00:10:02] /i fainted shiny salamence
+[02/09/2014 00:10:03] /i fainted shiny salamence
+[02/09/2014 00:10:03] /i fainted shiny salamence
+[02/09/2014 00:10:04] /i fainted shiny salamence
+[02/09/2014 00:10:04] /i fainted shiny salamence
+[02/09/2014 00:10:05] /i fainted shiny salamence
+[02/09/2014 00:10:18] /i fainted mewtwo
+[02/09/2014 00:10:19] /i fainted mewtwo
+[02/09/2014 00:10:19] /i fainted mewtwo
+[02/09/2014 00:10:20] /i fainted mewtwo
+[02/09/2014 00:10:21] /i fainted mewtwo
+[02/09/2014 00:10:33] /i fainted shiny muk
+[02/09/2014 00:10:42] /i fainted shiny dragonite
+[02/09/2014 00:10:44] /i fainted shiny dragonite
+[02/09/2014 00:10:45] /i fainted shiny dragonite
+[02/09/2014 00:10:57] /i fainted shiny swampert
+[02/09/2014 00:10:58] /i fainted shiny swampert
+[02/09/2014 00:11:03] /i fainted swampert
+[02/09/2014 00:11:12] /i fainted swampert
+[02/09/2014 00:11:28] /i fainted caterpie
+[02/09/2014 00:11:31] /i fainted caterpie
+[02/09/2014 00:11:33] /i fainted caterpie
+[02/09/2014 00:12:04] /i dark ball
+[02/09/2014 00:12:05] /i dark ball
+[02/09/2014 00:12:05] /i dark ball
+[02/09/2014 00:12:36] /i fainted shiny salamence
+[02/09/2014 00:12:39] /i fainted shiny salamence
+[02/09/2014 00:12:40] /i fainted shiny salamence
+[02/09/2014 00:12:40] /i fainted shiny salamence
+[02/09/2014 00:12:40] /i fainted shiny salamence
+[02/09/2014 00:12:40] /i fainted shiny salamence
+[02/09/2014 00:12:40] /i fainted shiny salamence
+[02/09/2014 00:12:40] /i fainted shiny salamence
+[02/09/2014 00:12:41] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:42] /i fainted shiny salamence
+[02/09/2014 00:12:46] /i fainted shiny salamence
+[02/09/2014 00:12:46] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:47] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:48] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:49] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:50] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:51] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:52] /i fainted shiny salamence
+[02/09/2014 00:12:59] /i fainted shiny salamence
+[02/09/2014 00:12:59] /i fainted shiny salamence
+[02/09/2014 00:12:59] /i fainted shiny salamence
+[02/09/2014 00:12:59] /i fainted shiny salamence
+[02/09/2014 00:12:59] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /i fainted shiny salamence
+[02/09/2014 00:13:00] /clean
+[02/09/2014 00:13:04] /clean
+[02/09/2014 00:13:08] /clean
+[02/09/2014 00:13:43] /c mysty
+[02/09/2014 00:13:59] /c mysty
+[02/09/2014 00:14:01] /c misty
+[02/09/2014 00:14:46] /i fainted shiny salamence
+[02/09/2014 00:14:46] /i fainted shiny salamence
+[02/09/2014 00:14:47] /i fainted shiny salamence
+[02/09/2014 00:14:49] /i fainted shiny salamence
+[02/09/2014 00:14:50] /i fainted shiny salamence
+[02/09/2014 00:14:50] /i fainted shiny salamence
+[02/09/2014 00:14:51] /i fainted shiny salamence
+[02/09/2014 00:15:29] /i fainted shiny salamence
+[02/09/2014 00:15:29] /i fainted shiny salamence
+[02/09/2014 00:16:40] /i small diamonds
+[02/09/2014 00:16:42] /i small diamonds
+[02/09/2014 00:16:42] /i small diamonds
+[02/09/2014 00:16:43] /i small diamonds
+[02/09/2014 00:16:49] /i small diamond
+[02/09/2014 00:16:50] /i small diamond
+[02/09/2014 00:16:50] /i small diamond
+[02/09/2014 00:16:51] /i small diamond
+[02/09/2014 00:17:29] /clean
+[02/09/2014 00:17:48] /c chaos slow
+[02/09/2014 00:18:46] /c chaos slow
+[02/09/2014 00:21:05] /c minero
+[02/09/2014 00:21:07] /c minero
+[02/09/2014 00:21:44] /m shiny magmortar
+[02/09/2014 00:21:47] /m shiny magmortar
+[02/09/2014 00:24:03] /c chaos slow
+[02/09/2014 00:24:42] /c chaos slow
+[02/09/2014 00:25:07] /up
+[02/09/2014 00:25:13] /up
+[02/09/2014 00:25:17] /up
+[02/09/2014 00:27:09] /m togekiss
+[02/09/2014 00:28:48] /up
+[02/09/2014 00:28:52] /up
+[02/09/2014 00:28:53] /up
+[02/09/2014 00:28:54] /up
+[02/09/2014 00:31:02] /t
+[02/09/2014 00:31:14] /t
+[02/09/2014 00:31:29] /i fainted shiny salamence
+[02/09/2014 00:31:54] /c minero
+[02/09/2014 00:33:41] /c minero
+[02/09/2014 00:34:20] /goto minero
+[02/09/2014 00:34:22] /goto minero
+[02/09/2014 00:34:24] /goto minero
+[02/09/2014 00:34:38] /goto minero
+[02/09/2014 00:34:39] /goto minero
+[02/09/2014 00:34:46] /goto minero
+[02/09/2014 00:35:27] /goto minero
+[02/09/2014 00:35:28] /goto minero
+[02/09/2014 00:35:29] /goto minero
+[02/09/2014 00:36:11] /goto minero
+[02/09/2014 00:36:12] /goto minero
+[02/09/2014 00:36:13] /goto minero
+[02/09/2014 00:36:20] /c  minero
+[02/09/2014 00:38:25] /c  minero
+[02/09/2014 00:38:27] /goto minero
+[02/09/2014 00:38:28] /goto minero
+[02/09/2014 00:38:37] /goto minero
+[02/09/2014 00:38:45] /goto minero
+[02/09/2014 00:38:47] /goto minero
+[02/09/2014 00:38:48] /goto minero
+[02/09/2014 00:38:52] /goto minero
+[02/09/2014 00:42:34] /c  minero
+[02/09/2014 00:44:47] /goto minero
+[02/09/2014 00:44:48] /goto minero
+[02/09/2014 00:44:48] /goto minero
+[02/09/2014 00:44:49] /goto minero
+[02/09/2014 00:44:49] /goto minero
+[02/09/2014 00:44:50] /goto minero
+[02/09/2014 00:44:51] /goto minero
+[02/09/2014 00:44:51] /goto minero
+[02/09/2014 00:44:52] /goto minero
+[02/09/2014 00:44:53] /goto minero
+[02/09/2014 00:44:59] /goto minero
+[02/09/2014 00:45:01] /goto minero
+[02/09/2014 00:45:02] /goto minero
+[02/09/2014 00:45:03] /goto minero
+[02/09/2014 00:45:04] /goto minero
+[02/09/2014 00:45:08] /i fainted shiny salamence
+[02/09/2014 00:45:10] /i fainted shiny salamence
+[02/09/2014 00:45:14] /goto minero
+[02/09/2014 00:45:23] /goto minero
+[02/09/2014 00:45:28] /goto minero
+[02/09/2014 00:45:31] /goto minero
+[02/09/2014 00:45:39] /goto minero
+[02/09/2014 00:45:41] /goto minero
+[02/09/2014 00:45:44] /goto minero
+[02/09/2014 00:45:48] /goto minero
+[02/09/2014 00:47:30] /goto minero
+[02/09/2014 00:48:05] /c minero
+[02/09/2014 00:50:00] /i fainted shiny salamence
+[02/09/2014 00:50:03] /i fainted shiny salamence
+[02/09/2014 00:50:03] /i fainted shiny salamence
+[02/09/2014 00:50:03] /i fainted shiny salamence
+[02/09/2014 00:50:03] /i fainted shiny salamence
+[02/09/2014 00:50:03] /i fainted shiny salamence
+[02/09/2014 00:50:03] /i fainted shiny salamence
+[02/09/2014 00:50:03] /i fainted shiny salamence
+[02/09/2014 00:50:03] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:04] /i fainted shiny salamence
+[02/09/2014 00:50:13] /i fainted shiny salamence
+[02/09/2014 00:50:13] /i fainted shiny salamence
+[02/09/2014 00:50:14] /i fainted shiny salamence
+[02/09/2014 00:50:14] /i fainted shiny salamence
+[02/09/2014 00:50:14] /i fainted shiny salamence
+[02/09/2014 00:50:14] /i fainted shiny salamence
+[02/09/2014 00:50:14] /i fainted shiny salamence
+[02/09/2014 00:50:19] /i fainted shiny salamence
+[02/09/2014 00:50:21] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:22] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:23] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:24] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:25] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:26] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:27] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:28] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:29] /i fainted shiny salamence
+[02/09/2014 00:50:30] /i fainted shiny salamence
+[02/09/2014 00:50:30] /i fainted shiny salamence
+[02/09/2014 00:50:30] /i fainted shiny salamence
+[02/09/2014 00:50:30] /i fainted shiny salamence
+[02/09/2014 00:50:34] /i fainted shiny salamence
+[02/09/2014 00:50:34] /i fainted shiny salamence
+[02/09/2014 00:50:34] /i fainted shiny salamence
+[02/09/2014 00:50:34] /i fainted shiny salamence
+[02/09/2014 00:50:34] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:35] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:36] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:37] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:38] /i fainted shiny salamence
+[02/09/2014 00:50:39] /i fainted shiny salamence
+[02/09/2014 00:50:39] /i fainted shiny salamence
+[02/09/2014 00:50:39] /i fainted shiny salamence
+[02/09/2014 00:50:39] /i fainted shiny salamence
+[02/09/2014 00:50:39] /i fainted shiny salamence
+[02/09/2014 00:50:39] /i fainted shiny salamence
+[02/09/2014 00:50:39] /i fainted shiny salamence
+[02/09/2014 00:50:39] /i fainted shiny salamence
+[02/09/2014 00:50:39] /i fainted shiny salamence
+[02/09/2014 00:50:39] /i fainted shiny salamence
+[02/09/2014 00:50:40] /i fainted shiny salamence
+[02/09/2014 00:50:40] /i fainted shiny salamence
+[02/09/2014 00:50:40] /i fainted shiny salamence
+[02/09/2014 00:50:40] /i fainted shiny salamence
+[02/09/2014 00:50:40] /i fainted shiny salamence
+[02/09/2014 00:50:40] /i fainted shiny salamence
+[02/09/2014 00:50:40] /i fainted shiny salamence
+[02/09/2014 00:50:40] /i fainted shiny salamence
+[02/09/2014 00:50:40] /i fainted shiny salamence
+[02/09/2014 00:50:40] /i fainted shiny salamence
+[02/09/2014 00:50:41] /i fainted shiny salamence
+[02/09/2014 00:50:41] /i fainted shiny salamence
+[02/09/2014 00:50:41] /i fainted shiny salamence
+[02/09/2014 00:50:41] /i fainted shiny salamence
+[02/09/2014 00:50:41] /i fainted shiny salamence
+[02/09/2014 00:50:41] /i fainted shiny salamence
+[02/09/2014 00:50:41] /i fainted shiny salamence
+[02/09/2014 00:50:41] /i fainted shiny salamence
+[02/09/2014 00:50:41] /i fainted shiny salamence
+[02/09/2014 00:50:41] /i fainted shiny salamence
+[02/09/2014 00:50:42] /i fainted shiny salamence
+[02/09/2014 00:50:42] /i fainted shiny salamence
+[02/09/2014 00:50:42] /i fainted shiny salamence
+[02/09/2014 00:50:42] /i fainted shiny salamence
+[02/09/2014 00:50:42] /i fainted shiny salamence
+[02/09/2014 00:50:42] /i fainted shiny salamence
+[02/09/2014 00:50:42] /i fainted shiny salamence
+[02/09/2014 00:50:42] /i fainted shiny salamence
+[02/09/2014 00:50:42] /i fainted shiny salamence
+[02/09/2014 00:50:43] /i fainted shiny salamence
+[02/09/2014 00:50:43] /i fainted shiny salamence
+[02/09/2014 00:50:43] /i fainted shiny salamence
+[02/09/2014 00:50:50] /i fainted shiny salamence
+[02/09/2014 00:50:56] /i fainted shiny salamence
+[02/09/2014 00:51:01] /i fainted shiny salamence
+[02/09/2014 00:51:03] /i fainted shiny salamence
+[02/09/2014 12:30:31] /goto minero
+[02/09/2014 12:31:14] /goto gengar
+[02/09/2014 12:32:35] /goto jynx
+[02/09/2014 12:32:44] /t 1
+[02/09/2014 12:32:45] /t 2
+[02/09/2014 12:32:46] /t 3
+[02/09/2014 12:32:53] /t feartxc
+[02/09/2014 12:32:54] /t feartxc 1
+[02/09/2014 12:32:59] /t 1 ,feartxc 
+[02/09/2014 12:33:02] /t ,1
+[02/09/2014 12:42:54] /goto minero
+[02/09/2014 19:03:14] /newtype 1626
+[02/09/2014 19:03:18] /newtype 1627
+[02/09/2014 19:03:20] /newtype 1628
+[02/09/2014 19:03:28] /newtype 1629
+[02/09/2014 19:03:29] /newtype 1628
+[02/09/2014 19:03:31] /newtype 1629
+[02/09/2014 19:03:35] /newtype 1610
+[02/09/2014 19:03:36] /newtype 1611
+[02/09/2014 19:03:37] /newtype 1612
+[02/09/2014 19:03:38] /newtype 1611
+[02/09/2014 19:03:41] /newtype 1613
+[02/09/2014 19:03:42] /newtype 1614
+[02/09/2014 19:03:43] /newtype 1615
+[02/09/2014 19:03:44] /newtype 1616
+[02/09/2014 19:03:45] /newtype 1617
+[02/09/2014 19:03:48] /newtype 1618
+[02/09/2014 19:03:52] /newtype 1619
+[02/09/2014 19:03:55] /newtype 1620
+[02/09/2014 19:03:58] /newtype 1630
+[02/09/2014 19:04:01] /newtype 1631
+[02/09/2014 19:04:02] /newtype 1632
+[02/09/2014 19:04:06] /newtype 1633
+[02/09/2014 19:04:08] /newtype 1634
+[02/09/2014 19:04:08] /newtype 1635
+[02/09/2014 19:04:14] /newtype 1636
+[02/09/2014 19:04:16] /newtype 1635
+[02/09/2014 19:04:17] /newtype 1637
+[02/09/2014 19:04:18] /newtype 1638
+[02/09/2014 19:04:23] /newtype 1610
+[02/09/2014 19:04:24] /newtype 1612
+[02/09/2014 19:04:25] /newtype 1613
+[02/09/2014 19:04:26] /newtype 1614
+[02/09/2014 19:04:27] /newtype 1615
+[02/09/2014 19:04:28] /newtype 1616
+[02/09/2014 19:04:29] /newtype 1617
+[02/09/2014 19:04:30] /newtype 1618
+[02/09/2014 19:04:32] /newtype 1620
+[02/09/2014 19:04:33] /newtype 1621
+[02/09/2014 19:04:40] /newtype 1621
+[02/09/2014 19:05:05] /newtype 1623
+[02/09/2014 19:05:06] /newtype 1624
+[02/09/2014 19:05:09] /newtype 1624
+[02/09/2014 19:05:10] /newtype 1623
+[02/09/2014 19:05:17] /newtype 1622
+[02/09/2014 19:05:24] /newtype 1625
+[02/09/2014 19:05:25] /newtype 1626
+[02/09/2014 19:05:26] /newtype 1627
+[02/09/2014 19:05:27] /newtype 1629
+[02/09/2014 19:05:30] /newtype 1630
+[02/09/2014 19:05:31] /newtype 1631
+[02/09/2014 19:05:32] /newtype 1632
+[02/09/2014 19:05:33] /newtype 1633
+[02/09/2014 19:05:34] /newtype 1634
+[02/09/2014 19:05:35] /newtype 1635
+[02/09/2014 19:05:37] /newtype 1600
+[02/09/2014 19:05:40] /newtype 1599
+[02/09/2014 19:05:42] /newtype 1597
+[02/09/2014 19:05:43] /newtype 1596
+[02/09/2014 19:05:44] /newtype 1595
+[02/09/2014 19:05:45] /newtype 1594
+[02/09/2014 19:05:47] /newtype 1593
+[02/09/2014 19:05:48] /newtype 1592
+[02/09/2014 19:05:49] /newtype 1591
+[02/09/2014 19:05:54] /newtype 1590
+[02/09/2014 19:05:58] /newtype 1591
+[02/09/2014 19:06:00] /newtype 1540
+[02/09/2014 19:06:02] /newtype 1500
+[02/09/2014 19:06:03] /newtype 1501
+[02/09/2014 19:06:05] /newtype 1501
+[02/09/2014 19:06:06] /newtype 1502
+[02/09/2014 19:06:07] /newtype 1503
+[02/09/2014 19:06:09] /newtype 1505
+[02/09/2014 19:06:09] /newtype 1506
+[02/09/2014 19:06:10] /newtype 1507
+[02/09/2014 19:06:12] /newtype 1508
+[02/09/2014 19:06:13] /newtype 1509
+[02/09/2014 19:06:16] /newtype 1510
+[02/09/2014 19:06:17] /newtype 1511
+[02/09/2014 19:06:18] /newtype 1512
+[02/09/2014 19:06:18] /newtype 1513
+[02/09/2014 19:06:20] /newtype 1514
+[02/09/2014 19:06:21] /newtype 1515
+[02/09/2014 19:06:22] /newtype 1516
+[02/09/2014 19:06:23] /newtype 1517
+[02/09/2014 19:06:25] /newtype 1519
+[02/09/2014 19:06:26] /newtype 1520
+[02/09/2014 19:06:27] /newtype 1521
+[02/09/2014 19:06:28] /newtype 1522
+[02/09/2014 19:06:29] /newtype 1523
+[02/09/2014 19:06:30] /newtype 1524
+[02/09/2014 19:06:31] /newtype 1525
+[02/09/2014 19:06:32] /newtype 1526
+[02/09/2014 19:06:35] /newtype 1526
+[02/09/2014 19:06:36] /newtype 1527
+[02/09/2014 19:06:38] /newtype 1528
+[02/09/2014 19:06:41] /newtype 1528
+[02/09/2014 19:06:43] /newtype 1529
+[02/09/2014 19:06:46] /newtype 1530
+[02/09/2014 19:06:47] /newtype 1531
+[02/09/2014 19:06:48] /newtype 1532
+[02/09/2014 19:06:49] /newtype 1533
+[02/09/2014 19:06:50] /newtype 1534
+[02/09/2014 19:06:51] /newtype 1535
+[02/09/2014 19:06:52] /newtype 1536
+[02/09/2014 19:06:53] /newtype 1537
+[02/09/2014 19:06:54] /newtype 1538
+[02/09/2014 19:06:56] /newtype 1539
+[02/09/2014 19:06:58] /newtype 1540
+[02/09/2014 19:06:59] /newtype 1541
+[02/09/2014 19:07:00] /newtype 1542
+[02/09/2014 19:07:02] /newtype 1543
+[02/09/2014 19:07:03] /newtype 1544
+[02/09/2014 19:07:05] /newtype 1545
+[02/09/2014 19:07:06] /newtype 1546
+[02/09/2014 19:07:08] /newtype 1549
+[02/09/2014 19:07:10] /newtype 1550
+[02/09/2014 19:07:12] /newtype 1551
+[02/09/2014 19:07:13] /newtype 1552
+[02/09/2014 19:07:14] /newtype 1553
+[02/09/2014 19:07:17] /newtype 1556
+[02/09/2014 19:07:18] /newtype 1557
+[02/09/2014 19:07:19] /newtype 1559
+[02/09/2014 19:07:21] /newtype 1590
+[02/09/2014 19:07:23] /newtype 1591
+[02/09/2014 19:07:23] /newtype 1592
+[02/09/2014 19:07:26] /newtype 1560
+[02/09/2014 19:07:27] /newtype 1561
+[02/09/2014 19:07:28] /newtype 1562
+[02/09/2014 19:07:29] /newtype 1563
+[02/09/2014 19:07:30] /newtype 1564
+[02/09/2014 19:07:31] /newtype 1565
+[02/09/2014 19:07:32] /newtype 1566
+[02/09/2014 19:07:33] /newtype 1567
+[02/09/2014 19:07:34] /newtype 1568
+[02/09/2014 19:07:35] /newtype 1569
+[02/09/2014 19:07:39] /newtype 1590
+[02/09/2014 19:07:41] /newtype 1591
+[02/09/2014 19:07:42] /newtype 1592
+[02/09/2014 19:07:44] /newtype 17000
+[02/09/2014 19:07:46] /newtype 1700
+[02/09/2014 19:07:47] /newtype 1706
+[02/09/2014 19:07:50] /newtype 1776
+[02/09/2014 19:07:53] /newtype 1670
+[02/09/2014 19:07:54] /newtype 1671
+[02/09/2014 19:07:56] /newtype 1610
+[02/09/2014 19:07:57] /newtype 1612
+[02/09/2014 19:07:58] /newtype 1613
+[02/09/2014 19:07:59] /newtype 16134
+[02/09/2014 19:08:00] /newtype 16135
+[02/09/2014 19:08:01] /newtype 16136
+[02/09/2014 19:08:02] /newtype 16137
+[02/09/2014 19:08:04] /newtype 1613
+[02/09/2014 19:08:06] /newtype 1619
+[02/09/2014 19:08:08] /newtype 1611
+[02/09/2014 19:08:09] /newtype 1612
+[02/09/2014 19:08:10] /newtype 1613
+[02/09/2014 19:08:11] /newtype 1614
+[02/09/2014 19:08:12] /newtype 16156
+[02/09/2014 19:08:14] /newtype 1615
+[02/09/2014 19:08:15] /newtype 1617
+[02/09/2014 19:08:16] /newtype 1617
+[02/09/2014 19:08:18] /newtype 1615
+[02/09/2014 19:08:21] /newtype 1619
+[02/09/2014 19:08:23] /newtype 1611
+[02/09/2014 19:08:26] /newtype 1640
+[02/09/2014 19:08:31] /newtype 1641
+[02/09/2014 19:08:32] /newtype 1642
+[02/09/2014 19:08:34] /newtype 1643
+[02/09/2014 19:08:36] /newtype 1644
+[02/09/2014 19:08:43] /newtype 1645
+[02/09/2014 19:08:45] /newtype 1646
+[02/09/2014 19:08:46] /newtype 1647
+[02/09/2014 19:08:50] /newtype 1648
+[02/09/2014 19:08:54] /newtype 1640
+[02/09/2014 19:08:56] /newtype 1650
+[02/09/2014 19:08:58] /newtype 1651
+[02/09/2014 19:08:58] /newtype 1652
+[02/09/2014 19:08:59] /newtype 1653
+[02/09/2014 19:09:00] /newtype 1654
+[02/09/2014 19:09:07] /newtype 1655
+[02/09/2014 19:09:08] /newtype 1651
+[02/09/2014 19:09:09] /newtype 1652
+[02/09/2014 19:09:11] /newtype 1653
+[02/09/2014 19:09:12] /newtype 1654
+[02/09/2014 19:09:13] /newtype 1655
+[02/09/2014 19:09:14] /newtype 1656
+[02/09/2014 19:09:16] /newtype 1658
+[02/09/2014 19:09:18] /newtype 1659
+[02/09/2014 19:09:21] /newtype 1660
+[02/09/2014 19:09:22] /newtype 166
+[02/09/2014 19:09:25] /newtype 1660
+[02/09/2014 19:09:26] /newtype 1661
+[02/09/2014 19:09:27] /newtype 1662
+[02/09/2014 19:09:29] /newtype 1661
+[02/09/2014 19:09:38] /c 1
+[02/09/2014 19:09:40] /c 2
+[02/09/2014 19:09:46] /c 2
+[02/09/2014 19:09:47] /c 2
+[02/09/2014 19:09:47] /c 2
+[02/09/2014 19:09:59] /newtype 1665
+[02/09/2014 19:10:01] /newtype 1664
+[02/09/2014 19:10:04] /newtype 1669
+[02/09/2014 19:10:06] /newtype 1670
+[02/09/2014 19:10:07] /newtype 1671
+[02/09/2014 19:10:10] /newtype 1673
+[02/09/2014 19:10:11] /newtype 1674
+[02/09/2014 19:10:13] /newtype 1676
+[02/09/2014 19:10:14] /newtype 1677
+[02/09/2014 19:10:17] /newtype 1999
+[02/09/2014 19:10:18] /newtype 1991
+[02/09/2014 19:10:20] /newtype 200
+[02/09/2014 19:10:23] /newtype 2000
+[02/09/2014 19:10:24] /newtype 2002
+[02/09/2014 19:10:26] /newtype 2003
+[02/09/2014 19:10:29] /m fainted articuno
+[02/09/2014 19:10:31] /m fainted articuno
+[02/09/2014 19:10:32] /m fainted articuno
+[02/09/2014 19:10:42] /i fainted salamence
+[02/09/2014 19:10:44] /i fainted salamence
+[02/09/2014 19:10:45] /i fainted salamence
+[02/09/2014 19:10:47] /i fainted salamence
+[02/09/2014 19:10:48] /i fainted salamence
+[02/09/2014 19:10:50] /i fainted salamence
+[02/09/2014 19:10:51] /i fainted salamence
+[02/09/2014 19:10:52] /i fainted salamence
+[02/09/2014 19:10:53] /i fainted salamence
+[02/09/2014 19:10:54] /i fainted salamence
+[02/09/2014 19:10:55] /i fainted salamence
+[02/09/2014 19:10:56] /i fainted salamence
+[02/09/2014 19:10:57] /i fainted salamence
+[02/09/2014 19:10:57] /i fainted salamence
+[02/09/2014 19:10:57] /i fainted salamence
+[02/09/2014 19:10:58] /i fainted salamence
+[02/09/2014 19:10:58] /i fainted salamence
+[02/09/2014 19:11:00] /i fainted shiny salamence
+[02/09/2014 19:11:01] /i fainted shiny salamence
+[02/09/2014 19:11:01] /i fainted shiny salamence
+[02/09/2014 19:11:01] /i fainted shiny salamence
+[02/09/2014 19:11:01] /i fainted shiny salamence
+[02/09/2014 19:11:01] /i fainted shiny salamence
+[02/09/2014 19:11:01] /i fainted shiny salamence
+[02/09/2014 19:11:01] /i fainted shiny salamence
+[02/09/2014 19:11:01] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:02] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:03] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:04] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:05] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:06] /i fainted shiny salamence
+[02/09/2014 19:11:08] /i fainted shiny salamence
+[02/09/2014 19:11:08] /i fainted shiny salamence
+[02/09/2014 19:11:08] /i fainted shiny salamence
+[02/09/2014 19:11:08] /i fainted shiny salamence
+[02/09/2014 19:11:08] /i fainted shiny salamence
+[02/09/2014 19:11:12] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:13] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:14] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:15] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:16] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:17] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:18] /i fainted shiny salamence
+[02/09/2014 19:11:19] /i fainted shiny salamence
+[02/09/2014 19:11:19] /i fainted shiny salamence
+[02/09/2014 19:11:19] /i fainted shiny salamence
+[02/09/2014 19:11:19] /i fainted shiny salamence
+[02/09/2014 19:11:19] /i fainted shiny salamence
+[02/09/2014 19:11:19] /i fainted shiny salamence
+[02/09/2014 19:11:19] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:20] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:21] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:22] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:23] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:24] /i fainted shiny salamence
+[02/09/2014 19:11:39] /m caterpie
+[02/09/2014 19:11:40] /m caterpie
+[02/09/2014 19:11:58] /newtype 1623
+[02/09/2014 19:12:00] /newtype 1621
+[02/09/2014 19:12:02] /newtype 1621
+[02/09/2014 19:12:07] /newtype 1622
+[02/09/2014 19:12:08] /newtype 1621
+[02/09/2014 19:12:17] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:18] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:12:19] /i fainted shiny salamence
+[02/09/2014 19:13:16] /i fainted shiny salamence
+[02/09/2014 19:13:16] /i fainted shiny salamence
+[02/09/2014 19:13:16] /i fainted shiny salamence
+[02/09/2014 19:13:16] /i fainted shiny salamence
+[02/09/2014 19:13:17] /i fainted shiny salamence
+[02/09/2014 19:13:17] /i fainted shiny salamence
+[02/09/2014 19:14:40] /a 2
+[02/09/2014 19:14:44] /a 3
+[02/09/2014 19:14:46] /a 3
+[02/09/2014 19:14:48] /a 3
+[02/09/2014 19:14:49] /a 3
+[02/09/2014 19:14:52] /a 3
+[02/09/2014 19:14:53] /a 3
+[02/09/2014 19:14:53] /a 3
+[02/09/2014 19:14:54] /a 3
+[02/09/2014 19:15:01] /a 3
+[02/09/2014 19:15:12] /a 
+[02/09/2014 19:15:15] /a 20
+[02/09/2014 19:15:17] /a 21
+[02/09/2014 19:15:20] /a 21
+[02/09/2014 19:15:34] /s shiny gengar
+[02/09/2014 19:15:35] /s shiny gengar
+[02/09/2014 19:15:35] /s shiny gengar
+[02/09/2014 19:15:36] /s shiny gengar
+[02/09/2014 19:15:36] /s shiny gengar
+[02/09/2014 19:15:37] /s shiny gengar
+[02/09/2014 19:15:37] /s shiny gengar
+[02/09/2014 19:15:38] /s shiny gengar
+[02/09/2014 19:15:38] /s shiny gengar
+[02/09/2014 19:15:38] /s shiny gengar
+[02/09/2014 19:15:49] /m caterpie
+[07/09/2014 11:07:12] /pos
+[07/09/2014 11:07:13] /pos
+[07/09/2014 11:07:13] /pos
+[07/09/2014 11:07:14] /pos
+[07/09/2014 11:07:14] /pos
+[07/09/2014 11:07:14] /pos
+[07/09/2014 11:07:16] /pos
+[07/09/2014 11:07:24] /pos
+[07/09/2014 11:07:26] /pos
+[07/09/2014 11:07:26] /pos
+[07/09/2014 11:07:27] /pos
+[07/09/2014 11:07:27] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:43] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:44] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:45] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:46] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:47] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:48] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:49] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:50] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:51] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:52] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:53] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:54] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:55] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:56] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:57] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:58] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:07:59] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:00] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:01] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:02] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:03] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:04] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:05] /pos
+[07/09/2014 11:08:06] /pos
+[07/09/2014 11:08:06] /pos
+[07/09/2014 11:08:06] /pos
+[07/09/2014 11:08:06] /pos
+[07/09/2014 11:08:06] /pos
+[07/09/2014 11:08:06] /pos
+[07/09/2014 11:08:06] /pos
+[07/09/2014 11:08:06] /pos
+[07/09/2014 11:08:06] /pos
+[07/09/2014 11:08:08] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:09] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:10] /pos
+[07/09/2014 11:08:11] /pos
+[07/09/2014 11:08:11] /pos
+[07/09/2014 11:08:11] /pos
+[07/09/2014 11:09:43] /pos
+[07/09/2014 11:09:43] /pos
+[07/09/2014 11:11:03] /pos
+[07/09/2014 11:11:03] /pos
+[07/09/2014 11:11:03] /pos
+[07/09/2014 11:11:13] /pos
+[07/09/2014 11:11:13] /pos
+[07/09/2014 11:11:13] /pos
+[07/09/2014 11:11:14] /pos
+[07/09/2014 11:11:14] /pos
+[07/09/2014 11:11:14] /pos
+[07/09/2014 11:11:14] /pos
+[07/09/2014 11:11:14] /pos
+[07/09/2014 11:11:21] /pos
+[07/09/2014 11:11:33] /pos
+[07/09/2014 11:12:29] /pos
+[07/09/2014 11:12:29] /pos
+[07/09/2014 11:15:16] /pos
+[07/09/2014 11:15:16] /pos
+[07/09/2014 11:18:14] /pos
+[07/09/2014 11:18:14] /pos
+[07/09/2014 11:18:36] /pos
+[07/09/2014 11:18:37] /pos
+[07/09/2014 11:18:37] /pos
+[07/09/2014 11:18:37] /pos
+[07/09/2014 11:19:52] /pos
+[07/09/2014 11:19:57] /pos
+[07/09/2014 11:19:57] /pos
+[07/09/2014 11:19:57] /pos
+[07/09/2014 11:22:18] /pos
+[07/09/2014 11:22:23] /pos
+[07/09/2014 11:22:23] /pos
+[07/09/2014 11:22:23] /pos
+[07/09/2014 11:22:23] /pos
+[07/09/2014 11:22:23] /pos
+[07/09/2014 11:22:23] /pos
+[07/09/2014 11:23:13] /pos
+[07/09/2014 11:23:15] /pos
+[07/09/2014 11:23:16] /pos
+[07/09/2014 11:23:16] /pos
+[07/09/2014 11:23:17] /pos
+[07/09/2014 11:23:17] /pos
+[07/09/2014 11:24:59] /pos
+[07/09/2014 11:25:56] /pos
+[07/09/2014 11:25:56] /pos
+[07/09/2014 11:26:00] /pos
+[07/09/2014 11:26:00] /pos
+[07/09/2014 11:26:00] /pos
+[07/09/2014 11:26:02] /pos
+[07/09/2014 11:26:03] /pos
+[07/09/2014 11:27:13] /pos
+[07/09/2014 11:27:13] /pos
+[07/09/2014 11:27:33] /pos
+[07/09/2014 11:27:33] /pos
+[07/09/2014 11:27:35] /pos
+[07/09/2014 11:27:35] /pos
+[07/09/2014 11:27:35] /pos
+[07/09/2014 11:28:28] /pos
+[07/09/2014 11:28:39] /pos
+[07/09/2014 11:29:31] /pos
+[07/09/2014 11:29:31] /pos
+[07/09/2014 11:29:32] /pos
+[07/09/2014 11:29:36] /pos
+[07/09/2014 11:29:36] /pos
+[07/09/2014 11:30:45] /pos
+[07/09/2014 11:30:46] /pos
+[07/09/2014 11:32:47] /pos
+[07/09/2014 11:32:47] /pos
+[07/09/2014 11:32:48] /pos
+[07/09/2014 11:32:48] /pos
+[07/09/2014 11:32:48] /pos
+[07/09/2014 11:32:48] /pos
+[07/09/2014 11:32:48] /pos
+[07/09/2014 11:32:49] /pos
+[07/09/2014 11:32:49] /pos
+[07/09/2014 11:32:49] /pos
+[07/09/2014 11:32:49] /pos
+[07/09/2014 11:34:09] /pos
+[07/09/2014 11:34:09] /pos
+[07/09/2014 11:34:10] /pos
+[07/09/2014 11:34:10] /pos
+[07/09/2014 11:34:11] /pos
+[07/09/2014 11:34:21] /pos
+[07/09/2014 11:34:24] /pos
+[07/09/2014 11:36:09] /pos
+[07/09/2014 11:39:44] /pos
+[07/09/2014 11:39:44] /pos
+[07/09/2014 11:39:44] /pos
+[07/09/2014 11:40:02] /pos
+[07/09/2014 11:40:42] /pos
+[07/09/2014 11:40:42] /pos
+[07/09/2014 11:40:42] /pos
+[07/09/2014 11:42:15] /pos
+[07/09/2014 11:42:15] /pos
+[07/09/2014 11:43:02] /pos
+[07/09/2014 11:44:54] /pos
+[07/09/2014 11:44:54] /pos
+[07/09/2014 11:44:55] /pos
+[07/09/2014 11:56:47] /pos
+[07/09/2014 11:56:47] /pos
+[07/09/2014 11:58:59] /pos
+[07/09/2014 11:58:59] /pos
+[07/09/2014 11:59:05] /pos
+[07/09/2014 11:59:05] /pos
+[07/09/2014 12:01:21] /pos
+[07/09/2014 12:09:53] /pos
+[07/09/2014 12:09:54] /pos
+[07/09/2014 12:10:35] /pos
+[30/10/2014 19:02:51] /goto shiny abra
+[30/10/2014 19:02:56] /a 50
+[30/10/2014 19:02:57] /a 50
+[30/10/2014 19:02:57] /a 50
+[30/10/2014 19:02:59] /a 50
+[30/10/2014 19:03:00] /a 50
+[30/10/2014 19:03:09] /a 50
+[30/10/2014 19:03:11] /a 50
+[30/10/2014 19:03:12] /a 50
+[30/10/2014 19:03:14] /a 50
+[30/10/2014 19:03:17] /a 50
+[30/10/2014 19:03:25] /a 50
+[30/10/2014 19:03:28] /a 50
+[30/10/2014 19:03:35] /a 30
+[30/10/2014 19:03:36] /a 30
+[30/10/2014 19:03:38] /a 10
+[30/10/2014 19:03:45] /a 40
+[30/10/2014 19:03:46] /a 30
+[30/10/2014 19:03:48] /a 30
+[30/10/2014 19:03:53] /a 30
+[30/10/2014 19:03:54] /a 30
+[30/10/2014 19:03:56] /a 50
+[30/10/2014 19:03:58] /a 50
+[30/10/2014 19:03:59] /a 50
+[30/10/2014 19:04:04] /a 3
+[30/10/2014 19:04:06] /a 3
+[30/10/2014 19:04:07] /a 3
+[30/10/2014 19:04:07] /a 3
+[30/10/2014 19:04:08] /a 3
+[30/10/2014 19:04:08] /a 3
+[30/10/2014 19:04:10] /a 3
+[30/10/2014 19:04:10] /a 3
+[30/10/2014 19:04:11] /a 3
+[30/10/2014 19:04:12] /a 3
+[30/10/2014 19:04:12] /a 3
+[30/10/2014 19:04:13] /a 3
+[30/10/2014 19:04:13] /a 3
+[30/10/2014 19:04:13] /a 3
+[30/10/2014 19:04:14] /a 3
+[30/10/2014 19:04:14] /a 3
+[30/10/2014 19:04:14] /a 3
+[30/10/2014 19:04:24] /clean
+[30/10/2014 19:15:07] /t

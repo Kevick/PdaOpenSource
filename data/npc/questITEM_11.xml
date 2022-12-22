@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Gabriel" script="questITEM_11.lua" walkinterval="350000" floorchange="0" speed="0">
+<health now="100" max="100"/>
+<look type="494" head="91" body="114" legs="86" feet="0"/>
+<parameters>
+<parameter key="message_greet" value="Hello |PLAYERNAME|.I need {help}...you help me?"/> </parameters>
+</npc>

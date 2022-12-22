@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Clan Kabutops" nameDescription="a kabutops" race="rock" experience="844" speed="230" manacost="0">
+    <health now="150" max="150"/>
+    <look type="364" head="65" body="85" legs="95" feet="113" corpse="11899"/>
+    <targetchange interval="10000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        <flag hungerdelay="1"/>
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Bubbles" interval="285" chance="9" range="8"/>
+        <attack name="Rock Slide" interval="282" chance="9" range="8"/>
+        <attack name="Slash" interval="296" chance="7" range="1"/>
+        <attack name="Ancient Power" interval="400" chance="5" range="8"/>
+		<attack name="Fury Cutter" interval="322" chance="7" range="8"/>
+        <attack name="Harden" interval="5625" chance="6" range="8"/>
+        <attack name="Mud Shot" interval="285" chance="7" range="8"/>
+    </attacks>
+    <defenses armor="0" defense="0">
+	</defenses>
+    <voices interval="5000" chance="10">
+        <voice sentence="KABUTOPS!"/>
+    </voices>
+    <loot>
+        <item id="12337" chance="200000" countmax="90"/>
+        <item id="12196" chance="100000" countmax="1"/>
+        <item id="11445" chance="4000" count="1" countmax="1"/>
+		<item id="11449" chance="2500" count="1" countmax="1"/>
+		<item id="12579" chance="3000" countmax="1"/>
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

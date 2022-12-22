@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Master Alakazam" nameDescription="a master alakazam" race="psychic" experience="1700" speed="117" manacost="0">
+  <health now="290" max="290"/>
+    <look type="569" head="70" body="90" legs="95" feet="113" corpse="12805"/>
+  <targetchange interval="0" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="4"/>
+ <flag staticattack="100"/>
+ <flag runonhealth="0"/>
+ <flag hungerdelay="20"/>
+</flags>
+
+<attacks>
+        <attack name="physical" interval="1000" chance="100" range="5" min="-50" max="-100">
+            <attribute key="shootEffect" value="eartharrow"/>
+        </attack>
+        <attack name="Confusion" interval="3017" chance="30" range="6"/>
+        <attack name="Restore" interval="4020" chance="10" range="6"/>
+        <attack name="Psy Pulse" interval="2052" chance="30" range="6"/>
+        <attack name="Psywave" interval="2040" chance="30" range="5"/>
+        <attack name="Psybeam" interval="2075" chance="30" range="6"/>
+        <attack name="Calm Mind" interval="3625" chance="15" range="6"/>
+        <attack name="Psychic" interval="2510" chance="25" range="6"/>
+	<attack name="Hypnosis" interval="2510" chance="15" range="4"/>
+	<attack name="Psyusion" interval="4610" chance="25" range="4"/>
+	<attack name="Reflect" interval="4510" chance="15" range="6"/>
+</attacks>
+
+
+<defenses armor="0" defense="0">
+</defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="ALAKAZAM!"/>
+ </voices>
+
+  <loot>
+        <item id="12194" chance="1300" count="1" countmax="5"/> --future orb
+        <item id="12193" chance="1300" count="1" countmax="5"/> --twisted spoon
+		        <item id="13785" chance="15000" countmax="80"/> --enchanted gem
+        <item id="11452" chance="1300" count="1" countmax="1"/> --enigma stone
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

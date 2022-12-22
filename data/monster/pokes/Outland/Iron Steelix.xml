@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Iron Steelix" nameDescription="a iron steelix" race="steel" experience="1700" speed="199" manacost="0">
+  <health now="310" max="310"/>
+  <look type="911" head="70" body="88" legs="95" feet="113" corpse="12800"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   <flag hungerdelay="15"/>
+</flags>
+  <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Sand Attack" interval="2852" chance="25" range="4"/>
+        <attack name="Rock Throw" interval="1800" chance="30" range="5"/>
+        <attack name="Stone Edge" interval="1993" chance="30" range="5"/>
+        <attack name="Rock Slide" interval="1893" chance="30" range="5"/>
+        <attack name="Earthshock" interval="2340" chance="30" range="5"/>
+        <attack name="Fissure" interval="2616" chance="30" range="5"/>
+        <attack name="Earthquake" interval="3045" chance="24" range="4"/>
+        <attack name="Harden" interval="3025" chance="18" range="5"/>
+	<attack name="iron defense" interval="5000" chance="15" range="5"/>
+  </attacks>
+  <defenses armor="0" defense="0">
+  </defenses>
+  <voices interval="5000" chance="10">
+	<voice sentence="STEEE!"/>
+<voice sentence="LIIX!"/>
+<voice sentence="STEELIX!"/>
+  </voices>
+  <loot>
+        <item id="12337" chance="15000" countmax="80"/> --small stone
+        <item id="12205" chance="1300" count="1" countmax="1"/> --onix tail
+        <item id="12196" chance="5500" countmax="1"/> --stone orb
+        <item id="11445" chance="1300" count="1" countmax="1"/> --rock stone
+        <item id="12250" chance="1300" count="1" countmax="1"/> --steel ore
+        <item id="12232" chance="500" count="1" countmax="1"/> --metal coat
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+        <item id="13867" chance="4000" count="1" countmax="1"/> --strange rock
+  </loot>
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

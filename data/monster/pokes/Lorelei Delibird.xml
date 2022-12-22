@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lorelei Delibird" nameDescription="a lorelei delibird" race="ice" experience="0" speed="196" manacost="0">
+  <health now="40" max="40"/>
+  <look type="937" head="42" body="57" legs="95" feet="113" corpse="3282"/>
+	<targetchange interval="10000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   <flag hungerdelay="15"/>
+</flags>
+  <attacks>
+		<attack name="melee" interval="2000" chance="100" range="1" min="-51" max="-83"/>
+		<attack name="Present" interval="282" chance="9" range="8"/>
+		<attack name="Pluck" interval="282" chance="5" range="1"/>
+		<attack name="Ice Beam" interval="300" chance="8" range="8"/>
+		<attack name="Wing Attack" interval="278" chance="11" range="8"/>
+		<attack name="Icy Wind" interval="252" chance="3" range="8"/>
+		<attack name="Blizzard" interval="325" chance="1" range="8"/>
+		<attack name="Rest" interval="5032" chance="10" range="8"/>
+  </attacks>
+  <defenses armor="0" defense="0"/>
+<voices interval="5000" chance="10">
+	<voice sentence="DELII!"/>
+<voice sentence="BIIRD!"/>
+<voice sentence="DELIBIRD!"/>
+  </voices>
+  <loot>
+ <item id="11454" countmax="1" chance="1000"/>
+  </loot>
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

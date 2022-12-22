@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Bone Marowak" nameDescription="a Bone marowak" race="ground" experience="1700" speed="127" manacost="0">
+  <health now="140" max="140"/>
+  <look type="548" head="45" body="150" legs="95" feet="113" corpse="12760"/>
+  <targetchange interval="2000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="1"/>
+ <flag staticattack="97"/>
+ <flag runonhealth="0"/>
+ <flag hungerdelay="19"/>
+</flags>
+
+<attacks>
+        <attack name="melee" interval="2000" chance="1800" range="1" min="-50" max="-100"/>
+        <attack name="Headbutt" interval="2011" chance="30" range="1"/>
+        <attack name="Bone Club" interval="1852" chance="30" range="6"/>
+        <attack name="Bonemerang" interval="2246" chance="30" range="6"/>
+        <attack name="Bone Slash" interval="2558" chance="30" range="3"/>
+        <attack name="Rage" interval="3258" chance="25" range="6"/>
+        <attack name="Shockwave" interval="2416" chance="26" range="5"/>
+		<attack name="Earthshock" interval="2516" chance="26" range="5"/>
+		<attack name="Mud Shot" interval="2916" chance="25" range="5"/>
+</attacks>
+
+
+<defenses armor="0" defense="0">
+</defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="MAROWAK!"/>
+ </voices>
+
+  <loot>
+
+        <item id="11451" chance="1300" count="1" countmax="1"/>
+        <item id="12337" chance="15000" countmax="80"/> --small stone
+        <item id="12177" chance="5500" count="1" countmax="1"/> --sandbag --sandbag
+        <item id="12280" chance="2000" count="1" countmax="1"/> --bone mask
+        <item id="12208" chance="2000" count="1" countmax="1"/> --bone
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

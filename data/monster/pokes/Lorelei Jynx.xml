@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lorelei Jynx" nameDescription="a lorelei jynx" race="psychic" experience="972" speed="117" manacost="0">
+  <health now="110" max="110"/>
+  <look type="1318" head="65" body="80" legs="95" feet="113" corpse="12544"/>
+  <targetchange interval="10000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="1"/>
+ <flag staticattack="97"/>
+ <flag runonhealth="0"/>
+ <flag hungerdelay="20"/>
+</flags>
+
+<attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Doubleslap" interval="267" chance="7" range="1"/>
+        <attack name="Lovely Kiss" interval="392" chance="9" range="8"/>
+        <attack name="Aurora Beam" interval="332" chance="6" range="8"/>
+        <attack name="Ice Punch" interval="300" chance="7" range="1"/>
+        <attack name="Ice Beam" interval="310" chance="5" range="8"/>
+        <attack name="Icy Wind" interval="365" chance="5" range="8"/>
+        <attack name="Psywave" interval="240" chance="8" range="8"/>
+        <attack name="Great Love" interval="409" chance="3" range="8"/>
+        <attack name="Blizzard" interval="443" chance="2" range="8"/>
+</attacks>
+
+
+<defenses armor="0" defense="0">
+</defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="JYNX!"/>
+ </voices>
+
+  <loot>
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

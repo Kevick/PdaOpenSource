@@ -1,0 +1,102 @@
+MainWindow
+  id: CatcherWindow
+  !text: tr('Congratulations!')
+  size: 180 280
+  &save: true
+  @onEnter: CatcherWindowHide()
+  @onEscape: CatcherWindowHide()
+
+  Button
+    id: ok
+    !text: tr('OK')
+    width: 100
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.bottom: parent.bottom
+    @onClick: CatcherWindowHide()
+
+  Item
+    id: ImagePortrait
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: parent.top
+
+  Label
+    id: PokeName
+    !text: tr("-")
+    text-auto-resize: true
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: ImagePortrait.bottom
+    margin-top: 5
+
+  Label
+    id: TotalBalls
+    !text: tr("-")
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.bottom: ok.top
+    text-auto-resize: true
+
+  Label
+    id: Experience
+    !text: tr("-")
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: PokeName.bottom
+    text-auto-resize: true
+
+  UIImageView
+    id: PokeBalls
+    image-source: /mods/catcherWindow/images/pb.png
+    anchors.left: parent.left
+    anchors.top: Experience.bottom
+    margin-left: 14
+
+  UIImageView
+    id: GreatBalls
+    image-source: /mods/catcherWindow/images/gb.png
+    anchors.left: parent.left
+    anchors.top: PokeBalls.bottom
+    margin-left: 14
+
+  UIImageView
+    id: SuperBalls
+    image-source: /mods/catcherWindow/images/sb.png
+    anchors.left: parent.left
+    anchors.top: GreatBalls.bottom
+    margin-left: 14
+
+  UIImageView
+    id: UltraBalls
+    image-source: /mods/catcherWindow/images/ub.png
+    anchors.left: parent.left
+    anchors.top: SuperBalls.bottom
+    margin-left: 14
+
+  Label
+    id: CountPB
+    !text: tr("-")
+    anchors.left: PokeBalls.right
+    anchors.top: Experience.bottom
+    margin-top: 9
+    text-auto-resize: true
+
+  Label
+    id: CountGB
+    !text: tr("-")
+    anchors.left: GreatBalls.right
+    anchors.top: CountPB.bottom
+    margin-top: 18
+    text-auto-resize: true
+
+  Label
+    id: CountSB
+    !text: tr("-")
+    anchors.left: SuperBalls.right
+    anchors.top: CountGB.bottom
+    margin-top: 18
+    text-auto-resize: true
+
+  Label
+    id: CountUB
+    !text: tr("-")
+    anchors.left: UltraBalls.right
+    anchors.top: CountSB.bottom
+    margin-top: 18
+    text-auto-resize: true

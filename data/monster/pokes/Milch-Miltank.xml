@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Milch-Miltank" nameDescription="a Milch-Miltank" race="normal" experience="1700" speed="127" manacost="0">
+    <health now="320" max="320"/>
+  <look type="946" head="60" body="85" legs="95" feet="113" corpse="12809"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   <flag hungerdelay="15"/>
+</flags>
+  <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Tackle" interval="2052" chance="30" range="1"/>
+        <attack name="Body Slam" interval="2099" chance="30" range="1"/>
+        <attack name="Earthshock" interval="2599" chance="30" range="6"/>
+        <attack name="Stomp" interval="3275" chance="25" range="5"/>
+        <attack name="Rollout" interval="3640" chance="30" range="6"/>
+        <attack name="Emergency Call" interval="5322" chance="20" range="6"/>
+        <attack name="Healarea" interval="6628" chance="10" range="6"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+<voices interval="5000" chance="20">
+	<voice sentence="MIIIL!"/>
+<voice sentence="TAAANK!"/>
+<voice sentence="MILTANK!"/>
+  </voices>
+ <loot>
+        <item id="12337" chance="15000" countmax="80"/> --small stone
+        <item id="11451" chance="1300" count="1" countmax="1"/> --heart stone
+		<item id="13789" chance="1300" countmax="1"/> --horn
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

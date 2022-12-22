@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Ancient Dragonite" nameDescription="a ancient dragonite" race="dragon" experience="1700" speed="107" manacost="0">
+    <health now="330" max="330"/>
+    <look type="561" head="90" body="120" legs="95" feet="113" corpse="12752"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        <flag hungerdelay="12"/>
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Aqua Tail" interval="2005" chance="30" range="1"/>
+		<attack name="Headbutt" interval="2005" chance="30" range="1"/>
+        <attack name="Dragon Breath" interval="2040" chance="29" range="7"/>
+        <attack name="Hyper Beam" interval="2599" chance="29" range="6"/>
+        <attack name="Thunder Wave" interval="2993" chance="28" range="6"/>
+        <attack name="Twister" interval="2552" chance="30" range="7"/>
+        <attack name="Wing Attack" interval="2340" chance="30" range="3"/>
+		<attack name="Thunder Punch" interval="2052" chance="30" range="1"/>
+		<attack name="Fire Punch" interval="2052" chance="30" range="1"/>
+		<attack name="Dragon Claw" interval="2000" chance="30" range="1"/>
+    </attacks>
+     <defenses armor="0" defense="0">
+	</defenses>
+    <voices interval="5000" chance="10">
+        <voice sentence="DRAGONITE!"/>
+    </voices>
+    <loot>
+        <item id="11449" chance="1300" count="1" countmax="1"/>
+        <item id="12159" chance="1300" count="1" countmax="1"/>
+        <item id="13794" chance="15000" countmax="80"/> --snowball
+        <item id="12275" chance="1300" count="1" countmax="1"/>
+        <item id="12244" chance="500" count="1" countmax="1"/>
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+     </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

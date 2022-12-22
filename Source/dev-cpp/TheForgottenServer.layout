@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="..\chat.h" open="0" top="0" tabpos="2">
+		<Cursor position="1364" topLine="29" />
+	</File>
+	<File name="..\const.h" open="0" top="0" tabpos="0">
+		<Cursor position="16473" topLine="479" />
+	</File>
+	<File name="..\creature.h" open="0" top="0" tabpos="0">
+		<Cursor position="4498" topLine="159" />
+	</File>
+	<File name="..\creatureevent.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="52155" topLine="1847" />
+	</File>
+	<File name="..\creatureevent.h" open="0" top="0" tabpos="6">
+		<Cursor position="5388" topLine="128" />
+	</File>
+	<File name="..\enums.h" open="0" top="0" tabpos="2">
+		<Cursor position="2304" topLine="86" />
+	</File>
+	<File name="..\game.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="120003" topLine="4441" />
+	</File>
+	<File name="..\game.h" open="0" top="0" tabpos="8">
+		<Cursor position="24171" topLine="598" />
+	</File>
+	<File name="..\items.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="58494" topLine="1787" />
+	</File>
+	<File name="..\items.h" open="0" top="0" tabpos="2">
+		<Cursor position="4858" topLine="136" />
+	</File>
+	<File name="..\luascript.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="103474" topLine="3542" />
+	</File>
+	<File name="..\luascript.h" open="0" top="0" tabpos="5">
+		<Cursor position="28043" topLine="641" />
+	</File>
+	<File name="..\monster.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="15222" topLine="585" />
+	</File>
+	<File name="..\monsters.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="30848" topLine="969" />
+	</File>
+	<File name="..\otserv.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="11725" topLine="396" />
+	</File>
+	<File name="..\outputmessage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="661" topLine="159" />
+	</File>
+	<File name="..\outputmessage.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="143" />
+	</File>
+	<File name="..\player.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="90711" topLine="3649" />
+	</File>
+	<File name="..\player.h" open="0" top="0" tabpos="3">
+		<Cursor position="26306" topLine="644" />
+	</File>
+	<File name="..\protocolgame.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="15407" topLine="572" />
+	</File>
+	<File name="..\protocolgame.h" open="0" top="0" tabpos="1">
+		<Cursor position="12695" topLine="294" />
+	</File>
+	<File name="..\resources.h" open="0" top="0" tabpos="0">
+		<Cursor position="2906" topLine="63" />
+	</File>
+	<File name="..\scriptmanager.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3378" topLine="110" />
+	</File>
+</CodeBlocks_layout_file>

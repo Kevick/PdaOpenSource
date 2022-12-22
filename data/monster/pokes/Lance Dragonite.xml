@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lance Dragonite" nameDescription="a dragonite" race="dragon" experience="1536" speed="210" manacost="0">
+    <health now="270" max="270"/>
+    <look type="561" head="90" body="100" legs="95" feet="113" corpse="11865"/>
+    <targetchange interval="10000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        <flag hungerdelay="1"/>
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Aqua Tail" interval="285" chance="5" range="1"/>
+		<attack name="Headbutt" interval="275" chance="6" range="1"/>
+        <attack name="Dragon Breath" interval="300" chance="11" range="8"/>
+        <attack name="Hyper Beam" interval="289" chance="9" range="8"/>
+        <attack name="Thunder Wave" interval="293" chance="9" range="8"/>
+        <attack name="Twister" interval="282" chance="10" range="8"/>
+        <attack name="Wing Attack" interval="300" chance="13" range="8"/>
+		<attack name="Thunder Punch" interval="272" chance="9" range="1"/>
+		<attack name="Fire Punch" interval="292" chance="9" range="1"/>
+		<attack name="Dragon Claw" interval="200" chance="9" range="1"/>
+        <attack name="Draco Meteor" interval="282" chance="3" range="8"/>
+    </attacks>
+     <defenses armor="0" defense="0">
+	</defenses>
+    <voices interval="5000" chance="10">
+        <voice sentence="DRAGONITE!"/>
+    </voices>
+    <loot>
+        <item id="11449" chance="3100" count="1" countmax="1"/>
+        <item id="12159" chance="8000" count="1" countmax="1"/>
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

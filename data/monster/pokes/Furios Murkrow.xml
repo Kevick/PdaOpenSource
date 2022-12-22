@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Furious Murkrow" nameDescription="a Furious murkrow" race="dark" experience="1700" speed="310" manacost="310">
+  <health now="40" max="40"/>
+  <look type="905" head="33" body="57" legs="95" feet="113" corpse="12794"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   <flag hungerdelay="15"/>
+</flags>
+  <attacks>
+		<attack name="melee" interval="2000" chance="100" range="1" min="-51" max="-70"/>
+        <attack name="Peck" interval="2070" chance="30" range="1"/>
+        <attack name="Pursuit" interval="2011" chance="30" range="6"/>
+        <attack name="Wing Attack" interval="2005" chance="30" range="6"/>
+        <attack name="Sucker Punch" interval="2048" chance="30" range="1"/>
+        <attack name="Night Shade" interval="2584" chance="29" range="6"/>
+        <attack name="Tailwind" interval="5061" chance="15" range="3"/>
+        <attack name="Shadowave" interval="2035" chance="30" range="3"/>
+   </attacks>
+  <defenses armor="0" defense="0">
+  </defenses>
+  <voices interval="5000" chance="20">
+	<voice sentence="MUURK!"/>
+<voice sentence="KROOOW!"/>
+<voice sentence="MURKROW!"/>
+  </voices>
+  <loot>
+	<item id="12194" countmax="1" chance="3500"/>-- future orb
+        <item id="12745" chance="15000" countmax="80"/> --darkness gem
+        <item id="12206" chance="15000" countmax="80"/> --essence of dark
+        <item id="12240" chance="4500" count="1" countmax="1"/> --bag of poisonous dust
+        <item id="12200" chance="5500" count="1" countmax="1"/> --feather
+        <item id="12172" chance="5500" count="1" countmax="1"/> --bird break
+        <item id="11450" chance="1300" count="1" countmax="1"/>
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+  </loot>
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

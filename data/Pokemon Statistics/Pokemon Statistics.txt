@@ -1,0 +1,253 @@
+NUMBER  NAME        TRIES / CATCHES
+
+[001]	Bulbasaur	239 / 7
+[002]	Ivysaur		599 / 6
+[003]	Venusaur	1626 / 11
+[004]	Charmander	305 / 21
+[005]	Charmeleon	1070 / 13
+[006]	Charizard	3237 / 23
+[007]	Squirtle	102 / 4
+[008]	Wartortle	108 / 1
+[009]	Blastoise	328 / 1
+[010]	Caterpie	84 / 84
+[011]	Metapod		148 / 43
+[012]	Butterfree	2632 / 227
+[013]	Weedle		15 / 15
+[014]	Kakuna		19 / 13
+[015]	Beedrill	588 / 58
+[016]	Pidgey		137 / 132
+[017]	Pidgeotto	1035 / 134
+[018]	Pidgeot		508 / 2
+[019]	Rattata		80 / 78
+[020]	Raticate	0 / 0
+[021]	Spearow		97 / 96
+[022]	Fearow		322 / 17
+[023]	Ekans		44 / 6
+[024]	Arbok		169 / 9
+[025]	Pikachu		400 / 18
+[026]	Raichu		1481 / 9
+[027]	Sandshrew	248 / 69
+[028]	Sandslash	1301 / 52
+[029]	Nidoran Female	39 / 28
+[030]	Nidorina	95 / 10
+[031]	Nidoqueen	252 / 3
+[032]	Nidoran Male	37 / 14
+[033]	Nidorino	114 / 20
+[034]	Nidoking	427 / 8
+[035]	Clefairy	25 / 2
+[036]	Clefable	297 / 2
+[037]	Vulpix		199 / 43
+[038]	Ninetales	379 / 7
+[039]	Jigglypuff	27 / 6
+[040]	Wigglytuff	119 / 2
+[041]	Zubat		164 / 76
+[042]	Golbat		157 / 21
+[043]	Oddish		454 / 380
+[044]	Gloom		2873 / 241
+[045]	Vileplume	545 / 9
+[046]	Paras		8 / 6
+[047]	Parasect	1175 / 86
+[048]	Venonat		98 / 16
+[049]	Venomoth	3805 / 239
+[050]	Diglett		143 / 123
+[051]	Dugtrio		184 / 13
+[052]	Meowth		76 / 48
+[053]	Persian		39 / 5
+[054]	Psyduck		144 / 30
+[055]	Golduck		537 / 19
+[056]	Mankey		165 / 64
+[057]	Primeape	219 / 11
+[058]	Growlithe	392 / 86
+[059]	Arcanine	762 / 12
+[060]	Poliwag		36 / 34
+[061]	Poliwhirl	19 / 1
+[062]	Poliwrath	216 / 5
+[063]	Abra		295 / 90
+[064]	Kadabra		491 / 42
+[065]	Alakazam	3331 / 37
+[066]	Machop		602 / 242
+[067]	Machoke		1003 / 54
+[068]	Machamp		1999 / 26
+[069]	Bellsprout	95 / 90
+[070]	Weepinbell	652 / 88
+[071]	Victreebel	488 / 18
+[072]	Tentacool	39 / 28
+[073]	Tentacruel	87 / 2
+[074]	Geodude		243 / 144
+[075]	Graveler	1011 / 61
+[076]	Golem		1096 / 17
+[077]	Ponyta		135 / 37
+[078]	Rapidash	288 / 11
+[079]	Slowpoke	391 / 334
+[080]	Slowbro		228 / 6
+[081]	Magnemite	77 / 68
+[082]	Magneton	482 / 32
+[083]	Magnezone	2 / 1
+[084]	Farfetch'd	448 / 24
+[085]	Doduo		266 / 167
+[086]	Dodrio		52 / 4
+[087]	Seel		11 / 6
+[088]	Dewgong		380 / 16
+[089]	Grimer		35 / 18
+[090]	Muk		125 / 8
+[091]	Shellder	48 / 26
+[092]	Cloyster	462 / 10
+[093]	Gastly		442 / 74
+[094]	Haunter		775 / 30
+[095]	Gengar		1317 / 29
+[096]	Onix		1119 / 43
+[097]	Drowzee		227 / 62
+[098]	Hypno		784 / 15
+[099]	Krabby		50 / 49
+[100]	Kingler		26 / 1
+[101]	Voltorb		174 / 69
+[102]	Electrode	537 / 23
+[103]	Exeggcute	290 / 183
+[104]	Exeggutor	262 / 3
+[105]	Cubone		351 / 137
+[106]	Marowak		705 / 32
+[107]	Hitmonlee	2191 / 45
+[108]	Hitmonchan	2820 / 45
+[109]	Lickitung	182 / 4
+[110]	Koffing		0 / 0
+[111]	Weezing		73 / 6
+[112]	Rhyhorn		0 / 0
+[113]	Rhydon		915 / 19
+[114]	Chansey		318 / 0
+[115]	Tangela		2275 / 107
+[116]	Kangaskhan	528 / 11
+[117]	Horsea		68 / 51
+[118]	Seadra		63 / 2
+[119]	Goldeen		42 / 42
+[120]	Seaking		31 / 7
+[121]	Staryu		75 / 35
+[122]	Starmie		72 / 2
+[123]	Mr. Mime	1123 / 22
+[124]	Scyther		10241 / 59
+[125]	Jynx		2577 / 81
+[126]	Electabuzz	3607 / 64
+[127]	Magmar		7230 / 143
+[128]	Pinsir		3767 / 165
+[129]	Tauros		191 / 37
+[130]	Magikarp	2336 / 2336
+[131]	Gyarados	150 / 1
+[132]	Lapras		506 / 8
+[133]	Ditto		164 / 1
+[134]	Eevee		640 / 2
+[135]	Vaporeon	261 / 2
+[136]	Jolteon		17 / 1
+[137]	Flareon		1048 / 18
+[138]	Porygon		366 / 10
+[139]	Omanyte		1539 / 428
+[140]	Omastar		142 / 2
+[141]	Kabuto		234 / 55
+[142]	Kabutops	27 / 1
+[143]	Aerodactyl	326 / 0
+[144]	Snorlax		1984 / 35
+[145]	Articuno	0 / 0
+[146]	Zapdos		0 / 0
+[147]	Moltres		0 / 0
+[148]	Dratini		364 / 21
+[149]	Dragonair	374 / 17
+[150]	Dragonite	841 / 6
+[151]	Mewtwo		0 / 0
+[152]	Mew		0 / 0
+[153]	Shiny Venusaur	507 / 14
+[154]	Shiny Charizard	1873 / 62
+[155]	Shiny Blastoise	235 / 9
+[156]	Shiny Butterfree	905 / 67
+[157]	Shiny Beedrill	144 / 11
+[158]	Shiny Pidgeot	462 / 9
+[159]	Shiny Rattata	435 / 56
+[160]	Shiny Raticate	9 / 0
+[161]	Shiny Fearow	0 / 0
+[162]	Shiny Raichu	609 / 28
+[163]	Shiny Nidoking	0 / 0
+[164]	Shiny Zubat	352 / 25
+[165]	Shiny Golbat	80 / 4
+[166]	Shiny Oddish	1 / 0
+[167]	Shiny Vileplume	0 / 0
+[168]	Shiny Paras	54 / 12
+[169]	Shiny Parasect	132 / 7
+[170]	Shiny Venonat	8 / 4
+[171]	Shiny Venomoth	0 / 0
+[172]	Shiny Growlithe	191 / 14
+[173]	Shiny Arcanine	162 / 6
+[174]	Shiny Abra	0 / 0
+[175]	Shiny Alakazam	515 / 17
+[176]	Shiny Tentacool	97 / 3
+[177]	Shiny Tentacruel	75 / 3
+[178]	Shiny Golem	0 / 0
+[179]	Shiny Farfetch'd	197 / 3
+[180]	Shiny Grimer	35 / 4
+[181]	Shiny Muk	21 / 2
+[182]	Shiny Gengar	252 / 5
+[183]	Shiny Onix	1256 / 13
+[184]	Shiny Hypno	0 / 0
+[185]	Shiny Krabby	111 / 8
+[186]	Shiny Kingler	27 / 1
+[187]	Shiny Voltorb	282 / 29
+[188]	Shiny Electrode	500 / 17
+[189]	Shiny Cubone	1107 / 61
+[190]	Shiny Marowak	0 / 0
+[191]	Shiny Hitmonlee	0 / 0
+[192]	Shiny Hitmonchan	0 / 0
+[193]	Shiny Tangela	672 / 12
+[194]	Shiny Horsea	102 / 8
+[195]	Shiny Seadra	24 / 2
+[196]	Shiny Scyther	1168 / 21
+[197]	Shiny Jynx	416 / 14
+[198]	Shiny Electabuzz	899 / 25
+[199]	Shiny Pinsir	995 / 34
+[200]	Shiny Magikarp	0 / 0
+[201]	Shiny Gyarados	274 / 9
+[202]	Shiny Vaporeon	0 / 0
+[203]	Shiny Jolteon	0 / 0
+[204]	Shiny Flareon	0 / 0
+[205]	Shiny Snorlax	261 / 9
+[206]	Shiny Dratini	100 / 3
+[207]	Shiny Dragonair	38 / 6
+[208]	Shiny Dragonite	0 / 0
+[209]	Milotic		632 / 11
+[210]	Chikorita	44 / 1
+[211]	Bayleef		719 / 11
+[212]	Meganium	285 / 3
+[213]	Cyndaquil	173 / 10
+[214]	Quilava		391 / 13
+[215]	Typhlosion	4 / 0
+[216]	Totodile	5 / 0
+[217]	Croconaw	40 / 0
+[218]	Feraligatr	275 / 2
+[219]	Sentret		116 / 82
+[220]	Furret		76 / 7
+[221]	Hoothoot	32 / 23
+[222]	Noctowl		5882 / 138
+[223]	Ledyba		75 / 72
+[224]	Ledian		5 / 0
+[225]	Spinarak	331 / 326
+[226]	Ariados		456 / 34
+[227]	Crobat		448 / 3
+[228]	Chinchou	8 / 2
+[229]	Lanturn		24 / 0
+[230]	Pichu		179 / 68
+[231]	Cleffa		51 / 4
+[232]	Igglybuff	59 / 7
+[233]	Togepi		8 / 0
+[234]	Togetic		20 / 0
+[235]	Natu		4278 / 1198
+[236]	Xatu		10610 / 168
+[237]	Mareep		49 / 34
+[238]	Flaaffy		180 / 7
+[239]	Ampharos	1189 / 8
+[240]	Bellossom	58 / 2
+[241]	Marill		11 / 0
+[242]	Azumarill	13 / 0
+[243]	Sudowoodo	769 / 7
+[244]	Politoed	90 / 3
+[245]	Hoppip		117 / 113
+[246]	Skiploom	5 / 1
+[247]	Jumpluff	77 / 6
+[248]	Aipom		316 / 50
+[249]	Sunkern		94 / 94
+[250]	Sunflora	244 / 9
+[251]	Yanma		4057 / 369

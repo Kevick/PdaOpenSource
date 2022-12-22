@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Tribal Feraligatr" nameDescription="a tribal feraligatr" race="water" experience="1700" speed="127" manacost="0">
+    <health now="280" max="280"/>
+  <look type="681" head="80" body="90" legs="95" feet="113" corpse="12817"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   <flag hungerdelay="15"/>
+</flags>
+ <attacks>
+       <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Bite" interval="1917" chance="30" range="1"/>
+        <attack name="Bubbles" interval="1870" chance="30" range="4"/>
+        <attack name="Water Gun" interval="2093" chance="30" range="6"/>
+        <attack name="Thrash" interval="2525" chance="30" range="6"/>
+	<attack name="Hydro Cannon" interval="2746" chance="25" range="4"/>
+        <attack name="Aqua Tail" interval="1958" chance="30" range="1"/>
+	<attack name="Agility" interval="3246" chance="28" range="4"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+<voices interval="5000" chance="10">
+	<voice sentence="LIGATR!"/>
+<voice sentence="FERA!"/>
+<voice sentence="FERALIGATR!"/>
+</voices>
+    <loot>
+        <item id="12161" chance="15000" countmax="80"/> --water gem
+        <item id="12170" chance="5500" count="1" countmax="1"/> --water pendant
+        <item id="11442" chance="1300" count="1" countmax="1"/> --water stone --water stone
+        <item id="12236" chance="1300" count="1" countmax="1"/> --alligator skin
+        <item id="12283" chance="1300" count="1" countmax="1"/> --water orb
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

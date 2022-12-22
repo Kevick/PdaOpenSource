@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npc name="Leo Oo  " speed="50">
+
+	<health now="435" max="435"/>
+
+	<look type="510" head="127" body="8" legs="95" feet="112"/>
+
+	<parameters>
+
+
+	</parameters>
+
+</npc>

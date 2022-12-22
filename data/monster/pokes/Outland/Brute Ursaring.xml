@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Brute Ursaring" nameDescription="an Brute ursaring" race="normal" experience="1700" speed="205" manacost="0">
+  <health now="330" max="330"/>
+  <look type="914" head="60" body="87" legs="95" feet="113" corpse="12769"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   <flag hungerdelay="15"/>
+</flags>
+  <attacks>
+		<attack name="melee" interval="2000" chance="1800" range="1" min="-50" max="-100"/>
+        <attack name="Scratch" interval="2058" chance="30" range="1"/>
+        <attack name="Mega Punch" interval="2040" chance="30" range="1"/>
+        <attack name="Body Slam" interval="2093" chance="30" range="1"/>
+        <attack name="Thrash" interval="3228" chance="30" range="6"/>
+        <attack name="Ground Crusher" interval="3092" chance="25" range="5"/>
+        <attack name="Rest" interval="6330" chance="15" range="6"/>
+        <attack name="Scary Face" interval="3980" chance="22" range="4"/>
+       </attacks>
+<defenses armor="0" defense="0">
+  </defenses>
+  <voices interval="5000" chance="10">
+	<voice sentence="URSAAA!"/>
+<voice sentence="RIING!"/>
+<voice sentence="URSARING!"/>
+  </voices>
+  <loot>
+        <item id="11453" chance="1300" count="1" countmax="1"/> --heart stone
+        <item id="12244" chance="500" count="1" countmax="1"/> --ancient stone
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

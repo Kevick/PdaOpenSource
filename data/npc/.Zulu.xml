@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Zulu" script=".ZuluTask.lua" walkinterval="3000" floorchange="0" speed="50" lookdir="2">
+<health now="150" max="150"/>
+<look type="523" head="91" body="114" legs="86" feet="0"/>
+
+	<parameters>
+
+	<parameter key="message_greet" value="Hello |PLAYERNAME|, i have some {task} for you... Are you interested?"/>
+
+	</parameters>
+
+</npc>

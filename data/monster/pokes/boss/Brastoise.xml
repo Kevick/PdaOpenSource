@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="brastoise" nameDescription="a brastoise" race="water" experience="1000100" speed="20027" manacost="0">
+    <health now="2000" max="2800"/>
+    <look type="14" head="80" body="90" legs="95" feet="113" corpse="11879"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        
+    </flags>
+    <attacks>
+        <attack name="melee" interval="200" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Lick" interval="3570" chance="5" range="1"/>
+        <attack name="Shadow Ball" interval="2011" chance="30" range="3"/>
+        <attack name="Night Shade" interval="2805" chance="30" range="3"/>
+        <attack name="InvisibleGhost" interval="5048" chance="18" range="6"/>
+        <attack name="Hypnosis" interval="5484" chance="20" range="3"/>
+		<attack name="Fear" interval="5584" chance="19" range="3"/>
+		<attack name="Shadow Storm" interval="5548" chance="20" range="6"/>
+		<attack name="Nightmare" interval="5498" chance="18" range="6"/>
+		<attack name="Dark Eye" interval="3048" chance="25" range="6"/>
+		<attack name="Shadow Punch" interval="3048" chance="30" range="1"/>
+                     <attack name="Aromateraphy" interval="25" chance="40" range="6"/>
+             </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="500" chance="10">
+        <voice sentence="PAPAOOOOOOO!"/>
+    </voices>
+    <loot>
+        <item id="1970" chance="1" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

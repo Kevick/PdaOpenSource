@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Lilia" script="questITEM_7.lua" walkinterval="350000" floorchange="0" speed="0">
+<health now="100" max="100"/>
+<look type="495" head="95" body="116" legs="121" feet="115" addons="3"/>
+<parameters>
+<parameter key="message_greet" value="Hello |PLAYERNAME|.I need {help}...you help me?"/> </parameters>
+</npc>

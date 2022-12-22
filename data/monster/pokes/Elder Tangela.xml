@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Elder Tangela" nameDescription="a elder tangela" race="grass" experience="1700" speed="114" manacost="0">
+  <health now="80" max="80"/>
+    <look type="369" head="35" body="60" legs="95" feet="113" corpse="12785"/>
+  <targetchange interval="2000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="1"/>
+ <flag staticattack="97"/>
+ <flag runonhealth="0"/>
+ <flag hungerdelay="22"/>
+</flags>
+
+<attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Absorb" interval="2711" chance="30" range="1"/>
+        <attack name="Leech Seed" interval="3040" chance="28" range="6"/>
+        <attack name="Vine Whip" interval="1840" chance="30" range="3"/>
+        <attack name="Poison Powder" interval="2625" chance="25" range="4"/>
+        <attack name="Stun Spore" interval="4625" chance="18" range="4"/>
+        <attack name="Super Vines" interval="2275" chance="28" range="3"/>
+        <attack name="Sleep Powder" interval="5510" chance="16" range="4"/>
+</attacks>
+
+
+	<defenses armor="0" defense="0">
+	</defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="TANGELA!"/>
+ </voices>
+
+  <loot>
+        <item id="12163" chance="15000" countmax="80"/> --seed
+        <item id="12155" chance="5500" count="1" countmax="1"/> --pair of leaves
+        <item id="12153" chance="4500" count="1" countmax="1"/> --bag of pollem
+        <item id="11441" chance="1300" count="1" countmax="1"/> --leaf stone
+        <item id="12341" chance="4500" count="1" countmax="1"/> --blue vines
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

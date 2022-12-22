@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hugh" script="default.lua" walkinterval="0" floorchange="0" speed="0">
+<health now="150" max="150"/>
+<look type="523" head="95" body="116" legs="0" feet="114"/>
+<parameters>
+<parameter key="message_greet" value="Hi, there! What can I do for you? I buy Pokemons drop items.. Come on, let {trade}!"/>
+<parameter key="message_farewell" value="Good bye!"/>
+<parameter key="message_idletimeout" value="Good bye!"/>
+<parameter key="message_walkaway" value="Good bye!"/>
+<parameter key="module_shop" value="1"/>
+<parameter key="shop_sellable" value= "big wing,12275,1000;
+dragon tail,12276,20000;
+purple tail,12277,20000;
+majesty wing,12268,20000;
+alligator skin,12236,20000;
+big egg,12211,20000;
+teel feather,12149,10000000;
+red feather,12151,10000000;
+yellow feather,12150,10000000;
+white rune,12289,20000;
+foxtail,12180,20000;
+pot with fire,12342,20000;
+water orb,12283,15000;
+iron piece,12142,20000;
+gyarados tail,12148,20000;
+bulb,12154,20000;
+long fang,12156,20000;
+turtle hull,12158,20000;
+dragon tooth,12159,20000;
+iron pin,12160,20000;
+mimic clothes,12166,20000;
+scythe,12167,20000;
+buzz tail,12169,20000;
+bird beak,12172,20000;
+rat tail,12174,20000;
+longhorn,12178,80000;
+luck medalion,12186,20000;
+wool ball,12187,20000;
+psyduck mug,12189,20000;
+punch toy,12191,20000;
+twisted spoon,12193,20000;
+future orb,12194,20000;
+champion belt,12195,20000;
+slowpoke tail,12197,20000;
+imam,12198,20000;
+stick slash,12199,20000;
+traces of ghost,12204,20000;
+onix tail,12205,20000;
+bone,12208,20000;
+big tongue,12209,20000;
+power orb,12223,20000;
+bracelet,12226,20000;
+star,12228,20000;
+magma orb,12229,20000;
+shell,12235,20000;
+iron bar,12239,20000;
+bag of poison dust,12240,20000;
+steel wing,12241,20000;
+green orb,12243,20000;
+steel ore,12250,20000;
+charizard wing,12270,20000;
+magma box,12271,20000;
+giant turtle hull,12272,20000;
+red gyarados tail,12273,200000;
+crystal tail,12274,20000;
+green apple bite,12278,20000;
+leaf pendant,12279,20000;
+bone mask,12280,20000;
+pikachu tail,12284,20000;
+raichu tail,12285,20000;
+blue vines,12341,20000;
+stone orb,12196,80000;
+locksmith of shell,12203,20000;
+crab claw,12207,20000;
+noctowl own,13782,50000;
+togepi egg,13784,50000;
+pinsir horn,12141,50000;
+ice bra,12168,50000;
+
+venom piece,13795,20000;
+
+xatu wing,13862,20000;
+snake tail,13863,20000;
+seahorse tail,13864,20000;
+strange sting,13865,20000;
+tentacle,13866,20000;
+strange rock,13867,20000;
+skarmory wing,13868,20000;
+scizor claw,13869,20000;
+star gem,13870,20000;
+tyranitar tail,13871,20000;
+small tail,13872,20000;
+magmar foot,13873,20000;
+red wing,13874,20000;
+gligar claw,13875,20000;
+insect foot,13876,20000;
+strange wing,13877,20000;
+mantine tail,13878,20000;
+small tusk,13879,20000;
+nidoran male ear,13880,20000;
+skin tail,13881,20000;
+sting hand,13882,20000;
+aipom hand,13883,20000;
+ledyba wing,13884,20000;
+strange antenna,13885,20000;
+squirry tail,13886,20000;
+point of light,13887,20000;
+kangaskhan ear,13888,20000;
+strange flower,13889,20000;
+great petal,13890,20000;
+great flower,13891,20000;
+fire tail,13892,20000;
+strange horn,13893,20000;
+piece of coral,13894,20000;
+shuckle armor,13895,20000;
+
+plant tail,13897,20000;
+sea tail,13898,20000;
+helicopter leaves,13899,20000;
+strange spike,13900,20000;
+topknot,13901,20000;"/>
+</parameters>
+</npc>

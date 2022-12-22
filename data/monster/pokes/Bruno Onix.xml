@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Bruno Onix" nameDescription="a bruno onix" race="rock" experience="428" speed="135" manacost="0">
+  <health now="170" max="170"/>
+  <look type="643" head="60" body="300" legs="95" feet="113" corpse="12582"/>
+  <targetchange interval="10000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="1"/>
+ <flag staticattack="97"/>
+ <flag runonhealth="0"/>
+ <flag hungerdelay="17"/>
+</flags>
+
+<attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Sand Attack" interval="282" chance="11" range="8"/>
+        <attack name="Iron Tail" interval="282" chance="4" range="1"/>
+        <attack name="Rock Throw" interval="285" chance="8" range="8"/>
+        <attack name="Rock Slide" interval="293" chance="7" range="8"/>
+        <attack name="Earthshock" interval="304" chance="5" range="8"/>
+        <attack name="Falling Rocks" interval="3416" chance="25" range="8"/>
+        <attack name="Earthquake" interval="4745" chance="15" range="8"/>
+        <attack name="Harden" interval="565" chance="4" range="8"/>
+</attacks>
+
+
+<defenses armor="0" defense="0">
+</defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="ONIX!"/>
+ </voices>
+
+  <loot>
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

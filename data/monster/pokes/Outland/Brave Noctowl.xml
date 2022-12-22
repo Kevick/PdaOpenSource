@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Brave Noctowl" nameDescription="an Brave noctowl" race="normal" experience="1700" speed="158" manacost="0">
+  <health now="330" max="330"/>
+  <look type="683" head="35" body="55" legs="95" feet="113" corpse="12766"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   <flag hungerdelay="15"/>
+</flags>
+  <attacks>
+        <attack name="melee" interval="2000" chance="1800" range="1" min="-50" max="-100"/>
+        <attack name="Quick Attack" interval="2070" chance="30" range="1"/>
+        <attack name="Peck" interval="2005" chance="30" range="1"/>
+        <attack name="Psychic" interval="2946" chance="30" range="4"/>
+        <attack name="Echoed Voice" interval="2946" chance="30" range="4"/>
+        <attack name="Drill Peck" interval="2064" chance="30" range="1"/>
+	<attack name="Confusion" interval="2764" chance="30" range="5"/>
+	<attack name="Air Slash" interval="2464" chance="30" range="5"/>
+	<attack name="Hypnosis" interval="3264" chance="20" range="5"/>
+        <attack name="Roost" interval="3264" chance="15" range="5"/>
+    </attacks>
+  <defenses armor="0" defense="0"/>
+<voices interval="5000" chance="10">
+	<voice sentence="NOOOC!"/>
+  </voices>
+ <loot>
+        <item id="11453" chance="1300" count="1" countmax="1"/> --heart stone
+        <item id="12200" chance="5500" count="1" countmax="1"/> --feather
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+        <item id="12172" chance="5500" count="1" countmax="1"/> --bird beak
+        <item id="13782" chance="4500" countmax="1"/> --noctowl own
+    </loot>
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

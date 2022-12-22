@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<creaturescripts>
+
+
+	<event type="joinchannel" name="ShowPokedex" event="script" value="newpokedex.lua"/>
+	<event type="leavechannel" name="ClosePokedex" event="script" value="newpokedex.lua"/>
+	<event type="kill" name="pokemons" event="script" value="bosses.lua"/>
+	<event type="login" name="aloot_reg" event="script" value="aloot.lua"/>
+        <event type="kill" name="aloot_kill" event="script" value="aloot.lua"/>
+	<event type="kill" name="task_count" script="task.lua"/>
+	<event type="kill" name="dropStone" script="dropStone.lua"/>
+	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
+ 	<event type="login" name="AntiMc" event="script" value="antimc.lua"/>
+
+    <event type="death" name="ArticunoTeleport" script="tparticuno.lua"/>
+
+	<event type="receivemail" name="Mail" event="script" value="mail.lua"/>
+
+	<event type="reportbug" name="SaveReportBug" script="reportbug.lua"/>
+    
+	<event type="think" name="Idle" event="script" value="idle.lua"/>
+
+
+	<event type="death" name="Experience" event="script" value="pokeexp.lua"/>
+
+	<event type="spawn" name="Spawn" event="script" value="spawn.lua"/>
+
+	<event type="think" name="t" event="script" value="wildpoke.lua"/>
+
+	<event type="think" name="PokemonIdle" event="script" value="poketele.lua"/>
+
+	<event type="statschange" name="GeneralConfiguration" event="script" value="exp2.0.lua"/>
+	<event type="advance" name="EffectOnAdvance" event="script" value="levelup.lua"/>
+
+
+	<event type="direction" name="DirectionSystem" event="script" value="wildpoke.lua"/>
+	<event type="attack" name="AttackSystem" event="script" value="wildpoke.lua"/>
+	<event type="cast" name="CastSystem" event="script" value="wildpoke.lua"/>
+	<event type="target" name="WildAttack" event="script" value="playerattack.lua"/>
+
+
+	<event type="look" name="LookSystem" event="script" value="look.lua"/>
+
+
+	<event type="death" name="SummonDeath" event="script" value="goback.lua"/>
+	<event type="logout" name="PlayerLogout" event="script" value="goback.lua"/>
+
+
+<!-- TV SYSTEM -->
+	<event type="textedit" name="newTv" event="script" value="tvsys.lua"/>
+	<event type="selecttv" name="selecttv" event="script" value="tvsys.lua"/>
+	<event type="logout" name="tvlogout" event="script" value="tvsys.lua"/>
+
+	<event type="traderequest" name="T2" event="script" value="trade system.lua"/>
+
+	<event type="tradeaccept" name="T1" event="script" value="trade system.lua"/>
+
+</creaturescripts>

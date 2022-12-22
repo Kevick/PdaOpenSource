@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Evil Cloyster" nameDescription="a evil cloyster" race="water" experience="1700" speed="117" manacost="0">
+    <health now="310" max="310"/>
+    <look type="423" head="60" body="80" legs="95" feet="113" corpse="12790"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        <flag hungerdelay="18"/>
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Lick" interval="2670" chance="25" range="1"/>
+        <attack name="Clamp" interval="2017" chance="30" range="6"/>
+        <attack name="Aurora Beam" interval="3040" chance="30" range="6"/>
+        <attack name="Harden" interval="5625" chance="15" range="6"/>
+        <attack name="Super Sonic" interval="3099" chance="20" range="4"/>
+        <attack name="Ice Beam" interval="2516" chance="30" range="6"/>
+        <attack name="Blizzard" interval="3933" chance="22" range="4"/>
+	<attack name="Bubbles" interval="2025" chance="30" range="6"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="20">
+        <voice sentence="CLOYSTER!"/>
+    </voices>
+    <loot>
+        <item id="12161" chance="2000" countmax="19"/>
+        <item id="12201" chance="5500" count="1" countmax="1"/> --ice orb
+        <item id="12203" chance="1300" count="1" countmax="5"/>
+        <item id="11442" chance="1300" countmax="1"/>
+		        <item id="13794" chance="15000" countmax="80"/> --snowball
+        <item id="13789" chance="1300" countmax="1"/> --horn
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+        <item id="11454" chance="1300" count="1" countmax="1"/>
+        <item id="13900" chance="4000" count="1" countmax="1"/> --
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

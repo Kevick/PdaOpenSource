@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Psy Jynx" nameDescription="a psy jynx" race="psychic" experience="1700" speed="117" manacost="0">
+    <health now="310" max="310"/>
+    <look type="633" head="55" body="80" legs="95" feet="113" corpse="12812"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        <flag hungerdelay="20"/>
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Doubleslap" interval="2017" chance="30" range="1"/>
+        <attack name="Lovely Kiss" interval="3952" chance="20" range="3"/>
+        <attack name="Aurora Beam" interval="2322" chance="25" range="6"/>
+        <attack name="Ice Punch" interval="3040" chance="25" range="1"/>
+        <attack name="Ice Beam" interval="2510" chance="25" range="6"/>
+        <attack name="Icy Wind" interval="2035" chance="30" range="6"/>
+        <attack name="Psywave" interval="2040" chance="30" range="6"/>
+        <attack name="Great Love" interval="3069" chance="20" range="6"/>
+        <attack name="Blizzard" interval="3403" chance="20" range="6"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="JYNX!"/>
+    </voices>
+    <loot>
+        <item id="12201" chance="10000" count="1" countmax="1"/>
+        <item id="11454" chance="1300" count="1" countmax="1"/>
+        <item id="12244" chance="500" count="1" countmax="1"/>
+	<item id="13794" chance="10000" countmax="80"/> --snowball
+	<item id="13785" chance="10000" countmax="80"/> --enchanted gem
+	<item id="12168" chance="3000" countmax="1"/> --ice bra
+        <item id="12338" chance="50" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

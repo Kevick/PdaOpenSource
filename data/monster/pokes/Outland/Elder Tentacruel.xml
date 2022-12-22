@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Elder Tentacruel" nameDescription="a elder tentacruel" race="water" experience="1700" speed="127" manacost="0">
+  <health now="170" max="170"/>
+    <look type="459" head="65" body="85" legs="95" feet="113" corpse="12786"/>
+  <targetchange interval="2000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="1"/>
+ <flag staticattack="97"/>
+ <flag runonhealth="0"/>
+ <flag hungerdelay="17"/>
+</flags>
+
+<attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Acid" interval="1500" chance="45" range="6"/>
+        <attack name="Waterball" interval="2052" chance="30" range="6"/>
+        <attack name="Poison Sting" interval="1500" chance="30" range="1"/>
+        <attack name="Mud Shot" interval="2000" chance="10" range="5"/>
+        <attack name="Super Sonic" interval="4920" chance="15" range="5"/>
+        <attack name="Psy Pulse" interval="1500" chance="35" range="6"/>
+        <attack name="Poison Bomb" interval="2246" chance="30" range="6"/>
+        <attack name="Bubbles" interval="1500" chance="35" range="6"/>
+        <attack name="Psywave" interval="1600" chance="30" range="5"/>
+        <attack name="Hydropump" interval="3500" chance="25" range="6"/>
+</attacks>
+
+
+<defenses armor="0" defense="0">
+</defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="TENTACRUEL!"/>
+ </voices>
+
+  <loot>
+        <item id="12161" chance="15000" countmax="80"/> --water gem
+        <item id="12170" chance="5500" count="1" countmax="1"/> --water pendant --water pendant
+        <item id="12202" chance="4500" count="1" countmax="1"/> --gosme
+		<item id="13795" chance="6500" countmax="1"/> --venom piece
+        <item id="12170" chance="5500" count="1" countmax="1"/> --water pendant
+        <item id="11442" chance="1300" count="1" countmax="1"/> --water stone
+        <item id="12188" chance="40500" count="1" countmax="1"/> --ruby
+        <item id="11443" chance="1300" count="1" countmax="1"/> --venom stone
+		        <item id="12338" chance="250" count="1"/> --bag box --bag box
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

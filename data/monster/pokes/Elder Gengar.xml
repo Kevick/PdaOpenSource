@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Elder Gengar" nameDescription="a elder gengar" race="ghost" experience="1700" speed="127" manacost="0">
+  <health now="340" max="130"/>
+    <look type="595" head="65" body="90" legs="95" feet="113" corpse="12778"/>
+  <targetchange interval="2000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="1"/>
+ <flag staticattack="97"/>
+ <flag runonhealth="0"/>
+ <flag hungerdelay="19"/>
+</flags>
+
+<attacks>
+        <attack name="melee" interval="1500" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Lick" interval="2070" chance="20" range="1"/>
+        <attack name="Shadow Ball" interval="2011" chance="30" range="6"/>
+        <attack name="Night Shade" interval="2505" chance="29" range="5"/>
+        <attack name="InvisibleGhost" interval="2048" chance="10" range="6"/>
+        <attack name="Hypnosis" interval="2004" chance="15" range="4"/>
+	<attack name="Fear" interval="1084" chance="15" range="4"/>
+	<attack name="Shadow Storm" interval="3048" chance="20" range="5"/>
+	<attack name="Nightmare" interval="2098" chance="15" range="4"/>
+	<attack name="Dark Eye" interval="1900" chance="25" range="6"/>
+	<attack name="Shadow Punch" interval="2048" chance="30" range="1"/>
+</attacks>
+
+
+<defenses armor="0" defense="0">
+</defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="GENGAR!"/>
+ </voices>
+
+  <loot>
+        <item id="12204" chance="1300" count="1" countmax="1"/>
+        <item id="12206" chance="15000" countmax="80"/> --essence of dark
+        <item id="12202" chance="4500" count="1" countmax="1"/> --gosme
+        <item id="12194" chance="2000" count="1" countmax="1"/>
+        <item id="11450" chance="1300" count="1" countmax="1"/>
+        <item id="11443" chance="1300" countmax="1"/>
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

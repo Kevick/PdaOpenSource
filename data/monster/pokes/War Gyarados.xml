@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="War Gyarados" nameDescription="a war gyarados" race="water" experience="1700" speed="147" manacost="0">
+    <health now="220" max="220"/>
+    <look type="468" head="70" body="90" legs="95" feet="113" corpse="12822"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        <flag hungerdelay="17"/>
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Bite" interval="2005" chance="30" range="1"/>
+        <attack name="Aqua Tail" interval="2052" chance="30" range="1"/>
+        <attack name="Waterball" interval="2046" chance="30" range="6"/>
+        <attack name="Hydro Cannon" interval="2899" chance="25" range="4"/>
+        <attack name="Twister" interval="2899" chance="30" range="6"/>
+        <attack name="Dragon Breath" interval="3040" chance="30" range="4"/>
+        <attack name="Hyper Beam" interval="3510" chance="25" range="5"/>
+        <attack name="Hydropump" interval="3839" chance="25" range="5"/>
+    </attacks>
+       <defenses armor="0" defense="0">
+	</defenses>
+    <voices interval="5000" chance="10">
+        <voice sentence="GYARADOS!"/>
+    </voices>
+    <loot>   
+        <item id="12161" chance="15000" countmax="80"/> --water gem
+        <item id="12170" chance="5500" count="1" countmax="1"/> --water pendant --water pendant
+        <item id="11442" chance="1300" count="1" countmax="1"/> --water stone
+        <item id="11449" chance="1300" count="1" countmax="1"/>
+        <item id="12148" chance="1500" count="1" countmax="1"/> --gyarados tail
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

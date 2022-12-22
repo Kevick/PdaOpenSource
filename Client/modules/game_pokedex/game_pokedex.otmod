@@ -1,0 +1,11 @@
+Module
+  name: game_pokedex
+  description: Pokedex System.
+  author: David Araujo (Hopus)
+  website: none
+  autoload: true
+  autoload-priority: 1000
+  sandbox: true
+  
+  scripts: [ game_pokedex ]
+  @onLoad: init()

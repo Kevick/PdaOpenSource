@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Metal Skarmory" nameDescription="a metal skarmory" race="steel" experience="1700" speed="235" manacost="0">
+  <health now="315" max="315"/>
+  <look type="936" head="60" body="77" legs="95" feet="113" corpse="12808"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   <flag hungerdelay="15"/>
+</flags>
+  <attacks>
+	<attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Slash" interval="1917" chance="30" range="1"/>
+        <attack name="Sand Attack" interval="2476" chance="25" range="3"/>
+        <attack name="Swift" interval="1900" chance="30" range="5"/>
+        <attack name="Peck" interval="2052" chance="30" range="1"/>
+	<attack name="Strafe" interval="3052" chance="20" range="4"/>
+        <attack name="Steel Wing" interval="2000" chance="30" range="4"/>
+        <attack name="Aerial Ace" interval="2300" chance="30" range="4"/>
+        <attack name="Air Slash" interval="2500" chance="30" range="4"/>
+        <attack name="Air Cutter" interval="2000" chance="30" range="4"/>
+  </attacks>
+  <defenses armor="0" defense="0"/>
+<voices interval="5000" chance="10">
+	<voice sentence="SKAAR!"/>
+<voice sentence="MOORY!"/>
+<voice sentence="SKARMORY!"/>
+  </voices>
+  <loot>
+        <item id="12200" chance="5500" count="1" countmax="1"/> --feather
+        <item id="12172" chance="5500" count="1" countmax="1"/> --bird break
+        <item id="12241" chance="5500" count="1" countmax="1"/> --steel wing
+        <item id="11453" chance="1300" count="1" countmax="1"/> --heart stone
+        <item id="12232" chance="500" count="1" countmax="1"/> --metal coat
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+        <item id="12250" chance="1300" count="1" countmax="1"/> --steel ore
+        <item id="13868" chance="4000" count="1" countmax="1"/> --skarmory wing
+  </loot>
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

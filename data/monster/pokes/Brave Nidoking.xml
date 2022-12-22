@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Brave Nidoking" nameDescription="a brave nidoking" race="poison" experience="1700" speed="129" manacost="0">
+    <health now="340" max="340"/>
+    <look type="386" head="55" body="75" legs="95" feet="113" corpse="12764"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        <flag hungerdelay="15"/>
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="1800" range="1" min="-50" max="-100"/>
+        <attack name="Bite" interval="2664" chance="30" range="1"/>
+        <attack name="Quick Attack" interval="2023" chance="30" range="1"/>
+        <attack name="Horn Attack" interval="2058" chance="30" range="1"/>
+        <attack name="Poison Sting" interval="2011" chance="30" range="1"/>
+        <attack name="Poison Fang" interval="2046" chance="30" range="1"/>
+        <attack name="Stomp" interval="3946" chance="10" range="5"/>
+		<attack name="Rage" interval="3446" chance="20" range="7"/>
+		<attack name="Horn Drill" interval="2446" chance="28" range="1"/>
+		<attack name="Mega Punch" interval="2446" chance="28" range="1"/>
+		<attack name="Shockwave" interval="2446" chance="28" range="6"/>
+		<attack name="Fear" interval="4446" chance="15" range="4"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="NIDOKING!"/>
+    </voices>
+    <loot>
+        <item id="12157" chance="2000" count="1" countmax="1"/>
+        <item id="11443" chance="1300" count="1" countmax="1"/> --venom stone
+		<item id="13795" chance="6000" countmax="1"/> --venom piece
+        <item id="11451" chance="1300" count="1" countmax="1"/>
+		        <item id="13789" chance="1300" countmax="1"/> --horn
+        <item id="12178" chance="500" count="1" countmax="1"/>
+        <item id="12240" chance="4500" count="1" countmax="1"/> --bag of poisonus dust
+        <item id="12165" chance="15000" countmax="80"/> --bottles of poison
+        <item id="12282" chance="5500" countmax="1"/> --venom pendant
+        <item id="12202" chance="5500" countmax="1"/> --gosme
+        <item id="12338" chance="250" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

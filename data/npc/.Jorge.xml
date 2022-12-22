@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Jorge" script=".JorgeTask.lua" walkinterval="3000" floorchange="0" speed="50" lookdir="2">
+<health now="150" max="150"/>
+<look type="587" head="1" body="115" legs="157" feet="65"/>
+
+	<parameters>
+
+	<parameter key="message_greet" value="Hello |PLAYERNAME|, i have some {task} for you... Are you interested?"/>
+
+	</parameters>
+
+</npc>

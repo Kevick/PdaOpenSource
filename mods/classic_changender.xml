@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod name="ChangeSex Classic" version="1.0" author="Roksas" enabled="yes">
+
+	<config name="changender_config"><![CDATA[
+		config = {
+			costPremiumDays = 5
+		}
+	]]></config>
+	<talkaction words="!changender" event="buffer"><![CDATA[
+		domodlib('changender_config')
+		if(getPlayerSex(cid) >= 2) then
+			doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Voce nao tem sexo para mudar!")
+			return
+		end
+
+		if(getPlayerPremiumDays(cid) < config.costPremiumDays) then
+			doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Desculpe, voce nao tem " .. config.costPremiumDays .. " Premium Days necessarios!")
+			doSendMagicEffect(getCreaturePosition(cid), CONST_ME_POFF)
+			return
+		end
+
+		if(getPlayerPremiumDays(cid) < 65535) then
+			doPlayerAddPremiumDays(cid, -config.costPremiumDays)
+		end
+
+		doPlayerSetSex(cid, getPlayerSex(cid) == PLAYERSEX_FEMALE and PLAYERSEX_MALE or PLAYERSEX_FEMALE)
+		doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Voce mudou seu sexo e isso lhe custou " .. config.costPremiumDays .. " days de Premium Account! Relogue para que faca efeito.")
+		doSendMagicEffect(getCreaturePosition(cid), CONST_ME_MAGIC_RED)
+	]]></talkaction>
+</mod>

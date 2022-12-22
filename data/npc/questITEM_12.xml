@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Fatinha" script="questITEM_12.lua" walkinterval="350000" floorchange="0" speed="0">
+<health now="100" max="100"/>
+<look type="128" head="20" body="100" legs="50" feet="99" corpse="2212"/>
+<parameters>
+<parameter key="message_greet" value="Hello |PLAYERNAME|.I need {help}...you help me?"/> </parameters>
+</npc>
