@@ -48,9 +48,9 @@
 
 
 <!-- TV SYSTEM -->
-	<event type="textedit" name="newTv" event="script" value="tvsys.lua"/>
-	<event type="selecttv" name="selecttv" event="script" value="tvsys.lua"/>
-	<event type="logout" name="tvlogout" event="script" value="tvsys.lua"/>
+	<event type="textedit" name="newTv" event="script" value="createTv.lua"/>
+	<event type="selecttv" name="selecttv" event="script" value="tv.lua"/>
+	<event type="logout" name="tvlogout" event="script" value="tvlogout.lua"/>
 
 	<event type="traderequest" name="T2" event="script" value="trade system.lua"/>
 
