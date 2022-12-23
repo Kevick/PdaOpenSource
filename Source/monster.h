@@ -197,4 +197,5 @@ class Monster : public Creature
 		virtual void getPathSearchParams(const Creature* creature, FindPathParams& fpp) const;
 		virtual bool useCacheMap() const {return true;}
 };
+
 #endif

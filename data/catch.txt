@@ -5103,3 +5103,13 @@ Name: Olokobixo - Pokémon: Geodude -
 Name: Olokobixo - Pokémon: Geodude - 
 Name: Olokobixo - Pokémon: Onix - 2 Ultra balls
 Name: Netex - Pokémon: Rattata - 
+Name: Netex - Pokémon: Rattata - 
+Name: Netex - Pokémon: Caterpie - 
+Name: Netex - Pokémon: Caterpie - 
+Name: Netex - Pokémon: Caterpie - 
+Name: Netex - Pokémon: Caterpie - 
+Name: Netex - Pokémon: Weedle - 
+Name: Netex - Pokémon: Weedle - 
+Name: Netex - Pokémon: Weedle - 
+Name: Netex - Pokémon: Weedle - 
+Name: Netex - Pokémon: Weedle - 

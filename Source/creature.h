@@ -511,6 +511,7 @@ class Creature : public AutoId, virtual public Thing
 		};
 
 		typedef std::map<uint32_t, CountBlock_t> CountMap;
+		
 		CountMap damageMap;
 		CountMap healMap;
 

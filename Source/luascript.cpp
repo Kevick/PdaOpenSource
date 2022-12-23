@@ -1559,7 +1559,9 @@ void LuaScriptInterface::registerFunctions()
 
 	//getCreatureStorage(uid, key)
 	lua_register(m_luaState, "getCreatureStorage", LuaScriptInterface::luaGetCreatureStorage);
-
+	
+	//getDamageMapPercent(cid, pid)
+    lua_register(m_luaState, "getDamageMapPercent", LuaScriptInterface::luaGetDamageMapPercent);
 	//doCreatureSetStorage(uid, key, value)
 	lua_register(m_luaState, "doCreatureSetStorage", LuaScriptInterface::luaDoCreatureSetStorage);
 
@@ -4743,6 +4745,34 @@ int32_t LuaScriptInterface::luaGetCreatureStorage(lua_State* L)
 	return 1;
 }
 
+int32_t LuaScriptInterface::luaGetDamageMapPercent(lua_State* L)
+{
+    // getDamageMapPercent(cid, pid)
+    ScriptEnviroment* env = getEnv();
+    Creature* pid = env->getCreatureByUID(popNumber(L)); //attacker
+    Creature* cid = env->getCreatureByUID(popNumber(L)); //cid
+    if (!pid->getMonster() || !cid->getPlayer()){
+        lua_pushnumber(L,0);
+        return 1;
+    }
+    if (cid && pid){
+        std::string name = cid->getName();
+        if (pid->getMonster()->damageMap[name])
+        {
+            double ret = (pid->getMonster()->damageMap[name] + 0.0) / (pid->getMaxHealth() + 0.0);
+            lua_pushnumber(L, ret);
+        }
+        else
+        {
+            lua_pushnumber(L, 0);
+        }
+        } else{
+        //não achou alguem
+        errorEx(getError(LUA_ERROR_CREATURE_NOT_FOUND));
+        lua_pushnumber(L, 0);
+    }
+    return 1;
+}
 int32_t LuaScriptInterface::luaDoCreatureSetStorage(lua_State* L)
 {
 	//doCreatureSetStorage(cid, key[, value])

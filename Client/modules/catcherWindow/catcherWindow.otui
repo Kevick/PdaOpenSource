@@ -43,28 +43,28 @@ MainWindow
 
   UIImageView
     id: PokeBalls
-    image-source: /mods/catcherWindow/images/pb.png
+    image-source: images/pb.png
     anchors.left: parent.left
     anchors.top: Experience.bottom
     margin-left: 14
 
   UIImageView
     id: GreatBalls
-    image-source: /mods/catcherWindow/images/gb.png
+    image-source: images/gb.png
     anchors.left: parent.left
     anchors.top: PokeBalls.bottom
     margin-left: 14
 
   UIImageView
     id: SuperBalls
-    image-source: /mods/catcherWindow/images/sb.png
+    image-source: images/sb.png
     anchors.left: parent.left
     anchors.top: GreatBalls.bottom
     margin-left: 14
 
   UIImageView
     id: UltraBalls
-    image-source: /mods/catcherWindow/images/ub.png
+    image-source: images/ub.png
     anchors.left: parent.left
     anchors.top: SuperBalls.bottom
     margin-left: 14

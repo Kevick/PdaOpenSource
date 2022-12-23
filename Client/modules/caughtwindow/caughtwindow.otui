@@ -1,0 +1,69 @@
+Pokeball < Panel
+  anchors.left: parent.left
+  anchors.right: parent.right
+  margin-top: 5
+  margin-left: 5
+  height: 25
+  width: 130
+
+  Item
+    id: Item_Ball
+    anchors.top: parent.top
+    anchors.left: parent.left
+    height: 25
+    width: 25
+
+  Label
+    id: Label_Ball
+    !text: tr("0x poke balls")
+    text-auto-resize: true
+    anchors.left: Item_Ball.right
+    anchors.verticalCenter: parent.verticalCenter
+    margin-left: 12
+
+MainWindow
+  id: Window_Caught
+  !text: tr('Congratulations!')
+  size: 180 200
+  &save: true
+  @onEnter: hide()
+  @onEscape: hide()
+
+  Item
+    id: Item_Portrait
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: parent.top
+    height: 40
+    width: 40
+
+  Label
+    id: Label_Caught
+    !text: tr("You caught a none!")
+    text-auto-resize: true
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: Item_Portrait.bottom
+    margin-top: 5
+
+  Label
+    id: Label_Exp
+    !text: tr("and won 0 exp")
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: Label_Caught.bottom
+    text-auto-resize: true
+
+  FlatPanel
+    id: Panel_Pokeballs
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: Label_Exp.bottom
+    margin-top: 5
+    height: 35
+    width: 150
+
+  Button
+    id: Button_Ok
+    !text: tr('OK')
+    width: 100
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: Panel_Pokeballs.bottom
+    margin-top: 5
+    @onClick: hide()

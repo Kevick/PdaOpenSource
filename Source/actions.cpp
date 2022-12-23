@@ -350,23 +350,23 @@ ReturnValue Actions::canUse(const Player* player, const Position& pos, const Ite
 
 ReturnValue Actions::canUseFar(const Creature* creature, const Position& toPos, bool checkLineOfSight)
 {
-	if(toPos.x == 0xFFFF)
-		return RET_NOERROR;
+    if(toPos.x == 0xFFFF)
+        return RET_NOERROR;
 
-	const Position& creaturePos = creature->getPosition();
-	if(creaturePos.z > toPos.z)
-		return RET_FIRSTGOUPSTAIRS;
+    const Position& creaturePos = creature->getPosition();
+    if(creaturePos.z > toPos.z)
+        return RET_FIRSTGOUPSTAIRS;
 
-	if(creaturePos.z < toPos.z)
-		return RET_FIRSTGODOWNSTAIRS;
+//    if(creaturePos.z < toPos.z)
+//        return RET_FIRSTGODOWNSTAIRS;
 
-	if(!Position::areInRange<7,5,0>(toPos, creaturePos))
-		return RET_TOOFARAWAY;
+    if(!Position::areInRange<7,5,3>(toPos, creaturePos))
+        return RET_TOOFARAWAY;
 
-	if(checkLineOfSight && !g_game.canThrowObjectTo(creaturePos, toPos))
-		return RET_CANNOTTHROW;
+//    if(checkLineOfSight && !g_game.canThrowObjectTo(creaturePos, toPos))
+//        return RET_CANNOTTHROW;
 
-	return RET_NOERROR;
+    return RET_NOERROR;
 }
 
 Action* Actions::getAction(const Item* item, ActionType_t type/* = ACTION_ANY*/) const

@@ -1,0 +1,17 @@
+Module
+  name: Caught Window v1.4
+  description: Este módulo foi desenvolvido por Tony Araújo e distribuído por Coddings.
+  author: Tony Araujo (Orochi Elf)
+  website: www.coddings.com
+
+  autoload: true
+  autoload-priority: 1000
+
+  scripts:
+    - caughtwindow.lua
+
+  dependencies:
+    - game_interface
+
+  @onLoad: init()
+  @onUnload: terminate()

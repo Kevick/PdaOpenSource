@@ -3664,7 +3664,7 @@ void Player::onAttackedCreatureDrain(Creature* target, int32_t points)
     char buffer[100];
     if (target->getMonster()){
         target->getMonster()->doRegisterDamageMap(this, points);
-    }
+    }    
     sprintf(buffer, "Your summon dealt %d damage to %s.", points, target->getNameDescription().c_str());
     sendTextMessage(MSG_STATUS_DEFAULT, buffer);
 }

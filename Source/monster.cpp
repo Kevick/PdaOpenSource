@@ -128,6 +128,7 @@ void Monster::onAttackedCreatureDisappear(bool isLogout)
 	extraMeleeAttack = true;
 }
 
+
 void Monster::doRegisterDamageMap(Creature* player, int32_t damage){
     if (damage <=0)
     return;

@@ -65,6 +65,9 @@ local catchinfo = {}
 doSendDistanceShoot(getThingPos(cid), topos, ballcatch[item.itemid].send)
 doRemoveItem(item.uid, 1)
 
+-- Caught Window System
+CaughtWindow.ballcount(cid, catchinfo.name, item.itemid)
+
 local d = getDistanceBetween(getThingPos(cid), topos)
 		
 if getPlayerStorageValue(cid, 98796) >= 1 and getPlayerItemCount(cid, 12617) <= 0 then  --alterado v1.9
